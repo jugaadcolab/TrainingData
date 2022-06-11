@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-06-11T06:06:05.608633+00:00</Created>
+        <LastChange>2022-06-11T06:06:05.608650+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="93_2L.jpg" imageWidth="2292" imageHeight="3388">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_ae3f35ed" >
+        <Coords points="681,1736 672,1699 660,1626 732,1506 850,1446 1133,1388 1430,1422 1541,1394 1678,1518 1682,1626 1644,1719 1641,1753 1609,1818 1511,1829 1486,1860 1425,1874 1308,1894 1233,1905 1212,1916 1191,1913 1139,1952 1082,1937 916,1925 780,1910 637,1919"/>
+        <Baseline points="683,1739 1646,1721"/>
+        <TextEquiv>
+          <Unicode>؁۱۹۴۳ء</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

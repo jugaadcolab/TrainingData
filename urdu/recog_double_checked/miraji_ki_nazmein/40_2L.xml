@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-06-11T06:06:04.622068+00:00</Created>
+        <LastChange>2022-06-11T06:06:04.622086+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="40_2L.jpg" imageWidth="2292" imageHeight="3388">
+
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_be7d9b4d" >
+        <Coords points="720,1767 717,1637 849,1554 932,1514 1046,1492 1249,1477 1418,1480 1584,1660 1520,1778 1517,1815 1370,1815 1350,1821 1226,1854 1223,1854 1220,1854 989,1869 966,1843 943,1832 924,1823 910,1835 876,1863 873,1863 870,1863 867,1863 864,1863 799,1879 734,1860 731,1860 729,1860 726,1860 726,1857 709,1840"/>
+        <Baseline points="723,1769 1415,1778 1523,1779"/>
+        <TextEquiv>
+          <Unicode>؁۱۹۴۱ء</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
