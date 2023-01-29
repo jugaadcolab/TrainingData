@@ -18,7 +18,7 @@ The segmentation model `urSEG_best.mlmodel` was trained from pages in the `basel
 Models trained with `kraken==4.2.0`
 
 ### Recognition Training prompt:
-`ketos train -d cuda:0 -f binary --base-dir R --normalization NFD --min-epochs 30 -w 0 -s '[1,120,0,1 Cr3,13,32 Do0.1,2 Mp2,2 Cr3,13,32 Do0.1,2 Mp2,2 Cr3,9,64 Do0.1,2 Mp2,2 Cr3,9,64 Do0.1,2 S1(1x0)1,3 Lbx200 Do0.1,2 Lbx200 Do.1,2 Lbx200 Do]' -r 0.0001`
+`ketos train -d cuda:0 -f binary --base-dir R --normalization NFD --min-epochs 30 -w 0 -s '[1,120,0,1 Cr3,13,32 Do0.1,2 Mp2,2 Cr3,13,32 Do0.1,2 Mp2,2 Cr3,9,64 Do0.1,2 Mp2,2 Cr3,9,64 Do0.1,2 S1(1x0)1,3 Lbx200 Do0.1,2 Lbx200 Do.1,2 Lbx200 Do]' -r 0.0001 ur.arrow`
 
 
 ### Recognition Test Report
