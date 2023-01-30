@@ -2,9 +2,9 @@
 
 ## Urdu OCR Training Data
 
-24K lines of ground truth for Urdu print (1860-1940) as Image-ALTO pair.
+For Recognition: 24K lines of ground truth for Urdu print (1860-1940) as Image-ALTO pair.
 
-Pages with line location as baseline are available in `baseline`, while `centerline` has pages annotated with centerline as line location.
+For Layout Analysis and Line Detection: pages with line location as baseline are available in `baseline`, while `centerline` has pages annotated with centerline as line location.
 
 ### Training
 A binary dataset was compiled from the data provided here and OpenITI Urdu nasta’līq data with the following prompt:
