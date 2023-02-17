@@ -22,6 +22,6 @@ Models trained with `kraken==4.2.0`
 
 ### Recognition Test Report
 
-The file named `test_report.txt` provides a report of recognition errors for the model `urATR_best.mlmodel`
+The file named `urATR_best_test.txt` provides a report of recognition errors for the model `urATR_best.mlmodel`
 
 A vast majority of errors for the recognition model are word boundary errors, which leads to either run-on errors or split errors.
