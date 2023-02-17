@@ -1,0 +1,1789 @@
+=== report  ===
+
+1951817	Characters
+35535	Errors
+98.18%	Accuracy
+
+17395	Insertions
+9065	Deletions
+9075	Substitutions
+
+Count	Missed	%Right
+1497212	19267	98.71%	Arabic
+411357	5436	98.68%	Common
+42395	1570	96.30%	Inherited
+850	194	77.18%	Latin
+3	3	0.00%	Devanagari
+
+Errors	Correct-Generated
+3868	{ SPACE } - {  }
+3243	{  } - { SPACE }
+1112	{ ا } - {  }
+1021	{ ی } - {  }
+728	{ ۔ } - {  }
+665	{ ہ } - {  }
+659	{ ر } - {  }
+643	{ ن } - {  }
+620	{ م } - {  }
+617	{ و } - {  }
+593	{  } - { ی }
+480	{ ب } - {  }
+475	{ ل } - {  }
+468	{  } - { ۔ }
+466	{ ک } - {  }
+465	{ س } - {  }
+459	{ ت } - {  }
+456	{  } - { ا }
+355	{ ے } - {  }
+310	{  } - { ہ }
+294	{  } - { . }
+289	{ ARABIC KASRA } - {  }
+285	{ د } - {  }
+260	{  } - { و }
+257	{  } - { ر }
+255	{ ھ } - {  }
+243	{ ARABIC DAMMA } - {  }
+237	{  } - { ARABIC DAMMA }
+226	{  } - { ے }
+216	{  } - { ن }
+208	{  } - { م }
+206	{ و } - { د }
+197	{  } - { ک }
+179	{ ں } - {  }
+179	{ . } - {  }
+174	{ ARABIC SHADDA } - {  }
+163	{  } - { س }
+163	{  } - { ت }
+158	{ ح } - {  }
+150	{ پ } - {  }
+147	{ ARABIC SIGN TAKHALLUS } - {  }
+145	{  } - { ل }
+145	{ ع } - {  }
+143	{ &#34; } - {  }
+142	{ ج } - {  }
+141	{ ARABIC FATHA } - {  }
+140	{ گ } - {  }
+133	{ ي } - {  }
+132	{  } - { ں }
+130	{ ARABIC HAMZA ABOVE } - {  }
+127	{  } - { ARABIC HAMZA ABOVE }
+126	{  } - { ب }
+125	{ ARABIC MADDAH ABOVE } - {  }
+122	{ ی } - { پ }
+110	{  } - { ھ }
+110	{ &#34; } - { ” }
+107	{  } - { د }
+105	{ ک } - { گ }
+102	{ د } - { و }
+101	{ ن } - { ب }
+99	{ ل } - { ک }
+97	{ ش } - {  }
+95	{ گ } - { ک }
+94	{  } - { ARABIC KASRA }
+94	{ ر } - { د }
+91	{ ف } - {  }
+90	{ ق } - {  }
+88	{ چ } - {  }
+84	{ ن } - { ں }
+84	{ ٹ } - {  }
+82	{ ہ } - { ب }
+82	{  } - { ي }
+80	{ ت } - { ن }
+77	{  } - { ARABIC MADDAH ABOVE }
+75	{ ب } - { پ }
+75	{ پ } - { ی }
+72	{ ی } - { ے }
+70	{ ن } - { ت }
+68	{ ز } - { ذ }
+68	{ ب } - { ن }
+68	{ ی } - { ں }
+65	{ ARABIC LETTER SUPERSCRIPT ALEF } - {  }
+65	{ ے } - { ی }
+65	{ ، } - {  }
+64	{ ز } - {  }
+64	{ ی } - { ہ }
+64	{ ’ } - {  }
+62	{ و } - { ر }
+62	{ . } - { ۔ }
+61	{ د } - { ر }
+60	{ &#34; } - { “ }
+56	{ ر } - { و }
+56	{ ب } - { ی }
+56	{ ں } - { ن }
+56	{ خ } - {  }
+55	{ ش } - { س }
+55	{ ک } - { ل }
+55	{ ’ } - { ، }
+53	{ ج } - { چ }
+53	{ پ } - { ہ }
+53	{ ز } - { ر }
+52	{  } - { پ }
+51	{ ر } - { ز }
+51	{  } - { ج }
+50	{ ی } - { ب }
+50	{ ص } - {  }
+50	{ ۱ } - {  }
+49	{  } - { ح }
+48	{ پ } - { ب }
+48	{ ے } - { ي }
+47	{  } - { ، }
+46	{ ” } - {  }
+44	{  } - { ARABIC FATHA }
+44	{  } - { ARABIC SHADDA }
+43	{ ڑ } - {  }
+43	{ چ } - { ج }
+42	{ م } - { ہ }
+41	{ ہ } - { م }
+40	{ ه } - { ہ }
+39	{ ذ } - { ز }
+37	{ ل } - { ن }
+36	{ ہ } - { ی }
+36	{ ARABIC SUKUN } - {  }
+35	{ ف } - { ق }
+35	{ ب } - { ہ }
+35	{ “ } - {  }
+34	{ ے } - { ہ }
+34	{ ي } - { ی }
+34	{ ج } - { ح }
+33	{ ب } - { ج }
+33	{ ہ } - { پ }
+33	{ ح } - { ج }
+32	{ ن } - { SPACE }
+31	{ ی } - { و }
+31	{ ARABIC FATHATAN } - {  }
+31	{ ح } - { خ }
+31	{ ھ } - { ہ }
+30	{  } - { ز }
+30	{ ا } - { SPACE }
+30	{  } - { خ }
+30	{ - } - { ۔ }
+30	{ ، } - { ۔ }
+29	{ ہ } - { ا }
+29	{ ج } - { خ }
+28	{ ر } - { ڑ }
+28	{ ۔ } - { . }
+28	{  } - { ع }
+27	{  } - { ARABIC SIGN TAKHALLUS }
+27	{  } - { چ }
+27	{ ن } - { ی }
+27	{ ر } - { ہ }
+27	{ ا } - { ل }
+27	{ ح } - { ھ }
+27	{ ی } - { SPACE }
+27	{ ہ } - { ھ }
+27	{ ط } - {  }
+26	{ ل } - { ا }
+26	{ ہ } - { و }
+25	{ ن } - { م }
+25	{ غ } - {  }
+25	{ م } - { س }
+25	{  } - { گ }
+24	{ ا } - { و }
+24	{ و } - { ی }
+24	{ ع } - { و }
+23	{ SPACE } - { د }
+23	{ ی } - { ا }
+23	{ ر } - { SPACE }
+23	{ ۰ } - {  }
+22	{ ب } - { م }
+22	{ ث } - { ش }
+22	{ خ } - { ج }
+22	{ ڈ } - {  }
+22	{ و } - { ہ }
+22	{ ي } - { و }
+21	{ SPACE } - { ر }
+21	{ ت } - { ٹ }
+21	{ ی } - { ت }
+21	{ ف } - { ن }
+21	{ ر } - { ے }
+21	{ SPACE } - { ۔ }
+21	{ ہ } - { ے }
+21	{ ل } - { ں }
+21	{ ا } - { ے }
+21	{ ق } - { ت }
+20	{ ا } - { ہ }
+20	{ ق } - { ف }
+20	{ ۔ } - { SPACE }
+20	{ ی } - { ن }
+20	{ س } - { م }
+20	{ ے } - { ا }
+20	{ SPACE } - { ا }
+20	{  } - { ٹ }
+20	{ غ } - { ع }
+20	{  } - { ش }
+20	{  } - { “ }
+19	{ پ } - { چ }
+19	{ ض } - {  }
+19	{ ڑ } - { ڈ }
+19	{ ل } - { SPACE }
+19	{ ا } - { ی }
+19	{ و } - { ا }
+19	{ د } - { SPACE }
+19	{ ARABIC FATHA } - { ARABIC DAMMA }
+18	{ و } - { SPACE }
+18	{  } - { ف }
+18	{ ص } - { ض }
+18	{ ع } - { غ }
+18	{ ء } - {  }
+18	{ ر } - { ا }
+18	{ ) } - {  }
+18	{  } - { ARABIC LETTER SUPERSCRIPT ALEF }
+17	{ س } - { ہ }
+17	{ د } - { ہ }
+17	{ ت } - { SPACE }
+17	{ م } - { ن }
+17	{  } - { &#34; }
+17	{ و } - { ے }
+17	{ ث } - {  }
+17	{ ک } - { ن }
+17	{ ۶ } - { ۲ }
+17	{ ( } - {  }
+17	{ ج } - { ب }
+17	{ ن } - { ل }
+16	{ ہ } - { ر }
+16	{ ک } - { س }
+16	{ ت } - { ے }
+16	{ س } - { ش }
+16	{ ل } - { ت }
+16	{ ی } - { م }
+16	{ ڑ } - { ر }
+16	{ ی } - { ي }
+16	{ ن } - { ک }
+16	{ ۲ } - {  }
+16	{ ’ } - { &#34; }
+16	{  } - { ’ }
+15	{ ن } - { ف }
+15	{ ARABIC SUKUN } - { ARABIC SHADDA }
+15	{  } - { ق }
+15	{ ب } - { س }
+15	{ ے } - { و }
+15	{ د } - { ڈ }
+15	{ ے } - { ں }
+15	{ ت } - { ک }
+15	{ ” } - { “ }
+15	{ غ } - { خ }
+14	{ ڈ } - { ڑ }
+14	{ ش } - { ث }
+14	{ - } - {  }
+14	{ ARABIC FOOTNOTE MARKER } - {  }
+14	{ ظ } - {  }
+14	{ م } - { ک }
+14	{ SPACE } - { ی }
+14	{ ت } - { م }
+14	{  } - { ڑ }
+14	{ ں } - { ل }
+14	{ م } - { ب }
+14	{ س } - { SPACE }
+14	{ خ } - { ح }
+14	{ ش } - { ت }
+14	{ ٹ } - { ن }
+13	{ ل } - { م }
+13	{ ذ } - {  }
+13	{ ڈ } - { د }
+13	{ ع } - { ح }
+13	{ م } - { ر }
+13	{  } - { ڈ }
+13	{ ہ } - { SPACE }
+13	{ ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM } - {  }
+13	{ م } - { ی }
+13	{ ۲ } - { ۶ }
+13	{  } - { ص }
+13	{ ۔ } - { ، }
+13	{ ” } - { &#34; }
+13	{ ہ } - { د }
+13	{ ہ } - { ه }
+13	{ ك } - { ک }
+13	{ ۶ } - {  }
+12	{ ت } - { ARABIC HAMZA ABOVE }
+12	{ ا } - { ک }
+12	{ ARABIC MADDAH ABOVE } - { ARABIC FATHA }
+12	{ ت } - { ق }
+12	{ ن } - { ہ }
+12	{ ٹ } - { ت }
+12	{ ن } - { ARABIC HAMZA ABOVE }
+12	{ ه } - { ھ }
+12	{ ۳ } - {  }
+12	{ س } - { ی }
+12	{ m } - { n }
+12	{ ک } - { ت }
+12	{ : } - {  }
+12	{ ٴ } - { ARABIC HAMZA ABOVE }
+11	{ ہ } - { س }
+11	{ ح } - { ع }
+11	{ ن } - { س }
+11	{ ت } - { ب }
+11	{ ع } - { م }
+11	{ ک } - { ج }
+11	{ س } - { ص }
+11	{ ہ } - { ج }
+11	{ ح } - { م }
+11	{ ت } - { ر }
+11	{ ی } - { ر }
+11	{ م } - { ا }
+11	{ ط } - { ظ }
+11	{ ہ } - { ن }
+11	{ س } - { ن }
+11	{ ش } - { خ }
+11	{ ۸ } - {  }
+11	{ ي } - { ن }
+11	{ ت } - { ہ }
+11	{ م } - { SPACE }
+11	{ ج } - { ہ }
+11	{ SPACE } - { ہ }
+11	{ ھ } - { ح }
+11	{ ٹ } - { ڑ }
+11	{ ل } - { ی }
+11	{ ذ } - { د }
+11	{ د } - { ا }
+10	{ ! } - {  }
+10	{ ر } - { م }
+10	{ ARABIC MADDAH ABOVE } - { ARABIC DAMMA }
+10	{  } - { ARABIC FATHATAN }
+10	{ ل } - { س }
+10	{ ک } - { SPACE }
+10	{ س } - { ر }
+10	{ ARABIC HAMZA ABOVE } - { ن }
+10	{ و } - { ق }
+10	{ ی } - { ل }
+10	{ ARABIC SIGN SANAH } - {  }
+10	{ ب } - { SPACE }
+10	{ ظ } - { ط }
+10	{  } - { ” }
+10	{ م } - { ل }
+10	{ چ } - { پ }
+10	{ &#39; } - { ’ }
+9	{ ث } - { ت }
+9	{ م } - { ع }
+9	{ ت } - { ش }
+9	{ ے } - { SPACE }
+9	{ ا } - { ر }
+9	{ ی } - { ک }
+9	{ ے } - { ک }
+9	{ ن } - { ر }
+9	{ ر } - { ت }
+9	{ SPACE } - { و }
+9	{ + } - { ۔ }
+9	{ ث } - { ن }
+9	{ ARABIC SIGN ALAYHE ASSALLAM } - {  }
+9	{ ؎ } - {  }
+9	{ ’ } - { ” }
+9	{ ع } - { ھ }
+9	{ SPACE } - { ن }
+9	{ ر } - { ی }
+9	{ ت } - { ا }
+9	{ ء } - { ر }
+8	{ ARABIC SUBSCRIPT ALEF } - {  }
+8	{ ARABIC HAMZA ABOVE } - { ی }
+8	{  } - { ذ }
+8	{ ARABIC MARK NOON GHUNNA } - { ں }
+8	{ ہ } - { ت }
+8	{ ہ } - { ک }
+8	{ ش } - { چ }
+8	{ ARABIC SHADDA } - { ت }
+8	{ ص } - { س }
+8	{ ں } - { س }
+8	{ &#39; } - {  }
+8	{ ARABIC MARK NOON GHUNNA } - {  }
+8	{ گ } - { ل }
+8	{ ۵ } - {  }
+8	{ غ } - { ف }
+8	{ خ } - { ن }
+8	{ “ } - { &#34; }
+8	{ 4 } - {  }
+8	{ ط } - { ل }
+8	{ ل } - { گ }
+8	{ ھ } - { م }
+8	{ ڑ } - { ز }
+8	{ ک } - { ا }
+8	{ ج } - { SPACE }
+8	{ ز } - { ن }
+7	{ ف } - { غ }
+7	{ س } - { ب }
+7	{ ف } - { ض }
+7	{ غ } - { ن }
+7	{ ۱ } - { ا }
+7	{ ض } - { خ }
+7	{ ي } - { ہ }
+7	{ ا } - { ن }
+7	{ ھ } - { ک }
+7	{ ر } - { ن }
+7	{ ک } - { ہ }
+7	{ ی } - { ھ }
+7	{ ۳ } - { ۲ }
+7	{ ے } - { ر }
+7	{ ن } - { ج }
+7	{  } - { ARABIC SUKUN }
+7	{ ب } - { ک }
+7	{ . } - { SPACE }
+7	{ چ } - { ش }
+7	{ ب } - { ت }
+7	{ س } - { ت }
+7	{  } - { ۱ }
+7	{ ض } - { ص }
+7	{ و } - { م }
+7	{ ف } - { خ }
+7	{ ۷ } - {  }
+7	{ ۹ } - {  }
+7	{ ARABIC FATHA } - { ARABIC SHADDA }
+7	{ س } - { ا }
+7	{ د } - { ذ }
+7	{ ARABIC DAMMA } - { ARABIC MADDAH ABOVE }
+7	{ ‘ } - {  }
+7	{ گ } - { ھ }
+7	{ &#34; } - { SPACE }
+7	{ 7 } - {  }
+7	{ ل } - { ب }
+7	{ &#39; } - { ، }
+7	{ _ } - { ۔ }
+7	{ ARABIC MADDAH ABOVE } - { ARABIC HAMZA ABOVE }
+7	{ م } - { ج }
+7	{ ف } - { ٹ }
+7	{ ق } - { ل }
+7	{ ت } - { ی }
+7	{ ٴ } - {  }
+7	{ ARABIC HAMZA ABOVE } - { SPACE }
+7	{ ب } - { ل }
+7	{ SPACE } - { . }
+7	{ ا } - { د }
+7	{ ۶ } - { ۹ }
+6	{ ر } - { ۔ }
+6	{ &#34; } - { ا }
+6	{ ن } - { ٹ }
+6	{ ت } - { ث }
+6	{ ھ } - { و }
+6	{ ج } - { ی }
+6	{ ن } - { ے }
+6	{ SPACE } - { ي }
+6	{ ع } - { ج }
+6	{ ح } - { گ }
+6	{ ک } - { و }
+6	{ م } - { ت }
+6	{ ج } - { ک }
+6	{  } - { ۲ }
+6	{ ۰ } - { SPACE }
+6	{ ڑ } - { ٹ }
+6	{ ح } - { ہ }
+6	{ ن } - { ز }
+6	{ و } - { ن }
+6	{ : } - { ؎ }
+6	{ ے } - { ن }
+6	{ ARABIC INVERTED DAMMA } - { ARABIC HAMZA ABOVE }
+6	{ ٹ } - { ARABIC HAMZA ABOVE }
+6	{ ح } - { ک }
+6	{ ڈ } - { ذ }
+6	{ ق } - { ن }
+6	{ f } - { t }
+6	{ ح } - { SPACE }
+6	{ ن } - { خ }
+6	{ ق } - { م }
+6	{ ت } - { ل }
+6	{ س } - { ں }
+6	{ ت } - { س }
+6	{ ء } - { ، }
+6	{ ص } - { ھ }
+6	{ SPACE } - { م }
+6	{ ل } - { ٹ }
+6	{ SPACE } - { ز }
+6	{ گ } - { ح }
+6	{ ن } - { ا }
+6	{  } - { ۳ }
+6	{ ک } - { ی }
+6	{ ش } - { SPACE }
+6	{ س } - { ع }
+6	{  } - { ض }
+6	{ گ } - { ا }
+5	{  } - { ! }
+5	{ SPACE } - { س }
+5	{ ت } - { د }
+5	{ و } - { ع }
+5	{ ڑ } - { ا }
+5	{ ح } - { س }
+5	{ ی } - { د }
+5	{ ع } - { ہ }
+5	{ پ } - { ا }
+5	{ ک } - { د }
+5	{ س } - { ک }
+5	{ پ } - { ک }
+5	{ ARABIC SIGN TAKHALLUS } - { ARABIC DAMMA }
+5	{ س } - { ج }
+5	{ ARABIC DAMMA } - { ARABIC FATHA }
+5	{ ي } - { ے }
+5	{ ؟ } - { ۔ }
+5	{ گ } - { ی }
+5	{ س } - { د }
+5	{ ARABIC KASRA } - { ARABIC FATHA }
+5	{ ف } - { و }
+5	{ ت } - { پ }
+5	{ ہ } - { چ }
+5	{ ں } - { ے }
+5	{ ں } - { ی }
+5	{ ن } - { غ }
+5	{ ر } - { ں }
+5	{ ج } - { م }
+5	{ ک } - { م }
+5	{ ی } - { س }
+5	{ ARABIC FOOTNOTE MARKER } - { ؎ }
+5	{ ARABIC FATHA } - { ARABIC SUKUN }
+5	{ ۴ } - {  }
+5	{ ہ } - { ۔ }
+5	{ ش } - { ک }
+5	{ SPACE } - { ” }
+5	{ ، } - { ’ }
+5	{ ق } - { ع }
+5	{ ب } - { ا }
+5	{ ‘ } - { ’ }
+5	{  } - { 1 }
+5	{ 3 } - {  }
+5	{ ۔ } - { “ }
+5	{ SPACE } - { ک }
+5	{ م } - { ے }
+5	{ ARABIC HAMZA ABOVE } - { و }
+5	{ SPACE } - { ں }
+5	{ خ } - { ش }
+5	{ 1 } - {  }
+5	{ د } - { ی }
+5	{ ل } - { و }
+5	{ م } - { گ }
+5	{ ٢ } - { ۲ }
+5	{ ح } - { چ }
+5	{ ش } - { ض }
+5	{ ش } - { ن }
+5	{ ۱ } - { 1 }
+5	{ ۰ } - { . }
+5	{ د } - { ک }
+5	{ ۲ } - { ۳ }
+5	{ ARABIC HAMZA ABOVE } - { ل }
+5	{ SPACE } - { ARABIC DAMMA }
+4	{ ؟ } - {  }
+4	{ د } - { س }
+4	{ ARABIC FATHA } - { ARABIC MADDAH ABOVE }
+4	{ ا } - { ۱ }
+4	{ خ } - { غ }
+4	{ ف } - { م }
+4	{ &#34; } - { ۔ }
+4	{ ن } - { ق }
+4	{ و } - { ل }
+4	{ ص } - { م }
+4	{ ي } - { ل }
+4	{ ے } - { م }
+4	{ م } - { د }
+4	{ ا } - { ARABIC HAMZA ABOVE }
+4	{ ل } - { ر }
+4	{ ۔ } - { ے }
+4	{ ل } - { د }
+4	{ ۔ } - { ا }
+4	{ ۔ } - { - }
+4	{ ARABIC INVERTED DAMMA } - {  }
+4	{ پ } - { ت }
+4	{ ARABIC SUKUN } - { SPACE }
+4	{ ۶ } - { ۴ }
+4	{  } - { غ }
+4	{ ARABIC HAMZA ABOVE } - { ت }
+4	{ خ } - { ک }
+4	{ * } - { ۔ }
+4	{ ع } - { ف }
+4	{ م } - { ص }
+4	{ چ } - { SPACE }
+4	{ ک } - { خ }
+4	{ ں } - { ۔ }
+4	{ – } - {  }
+4	{ ں } - { ر }
+4	{ ژ } - { ر }
+4	{ س } - { ل }
+4	{ و } - { ڑ }
+4	{ ف } - { ل }
+4	{ گ } - { ت }
+4	{ ۔ } - { ہ }
+4	{  } - { ظ }
+4	{ ر } - { ک }
+4	{ ع } - { ا }
+4	{ ل } - { ي }
+4	{ ﷲ } - { ہ }
+4	{ c } - { o }
+4	{ گ } - { SPACE }
+4	{ L } - {  }
+4	{ ’ } - { SPACE }
+4	{ خ } - { گ }
+4	{  } - { n }
+4	{ ARABIC SIGN TAKHALLUS } - { SPACE }
+4	{ m } - {  }
+4	{ n } - {  }
+4	{ ٦ } - {  }
+4	{ ح } - { ARABIC DAMMA }
+4	{ ARABIC MADDAH ABOVE } - { ی }
+4	{ ہ } - { ، }
+4	{ ى } - { ی }
+4	{ ٣ } - { ۳ }
+4	{ ا } - { 1 }
+4	{ “ } - { ” }
+4	{ ھ } - { SPACE }
+4	{ خ } - { م }
+4	{ ہ } - { ز }
+4	{ ن } - { ۔ }
+4	{ ARABIC SHADDA } - { ARABIC FATHA }
+4	{ ☆ } - {  }
+4	{ ع } - { ی }
+4	{ و } - { ج }
+4	{ م } - { خ }
+4	{ ز } - { د }
+4	{  } - { : }
+4	{ ی } - { ARABIC HAMZA ABOVE }
+4	{ ۔ } - { ر }
+4	{ ي } - { SPACE }
+4	{ ب } - { ع }
+4	{ ف } - { ث }
+4	{ ARABIC VOWEL SIGN INVERTED SMALL V ABOVE } - {  }
+4	{ ARABIC KASRA } - { ر }
+4	{ ض } - { م }
+4	{ ا } - { ز }
+4	{ ) } - { ا }
+4	{ د } - { ز }
+4	{ ARABIC MADDAH ABOVE } - { SPACE }
+4	{ ب } - { ر }
+3	{ ۔ } - { ن }
+3	{ SPACE } - { &#34; }
+3	{ ح } - { ی }
+3	{ ک } - { پ }
+3	{ ے } - { ۔ }
+3	{ ARABIC HAMZA ABOVE } - { گ }
+3	{ SPACE } - { ت }
+3	{ SPACE } - { ھ }
+3	{ ی } - { گ }
+3	{ ھ } - { ر }
+3	{ ر } - { ARABIC HAMZA ABOVE }
+3	{ م } - { ARABIC DAMMA }
+3	{ ق } - { ی }
+3	{ ط } - { ب }
+3	{ ARABIC SIGN TAKHALLUS } - { ARABIC SHADDA }
+3	{ ء } - { ھ }
+3	{ ۔ } - { ل }
+3	{ ا } - { پ }
+3	{ م } - { و }
+3	{ ب } - { ARABIC KASRA }
+3	{ ARABIC SIGN TAKHALLUS } - { ARABIC MADDAH ABOVE }
+3	{ ن } - { ARABIC DAMMA }
+3	{ ط } - { ج }
+3	{ د } - { ڑ }
+3	{ ب } - { ط }
+3	{ SPACE } - { ڈ }
+3	{ س } - { ض }
+3	{ ۔ } - { و }
+3	{ ARABIC SIGN TAKHALLUS } - { ت }
+3	{ ARABIC SHADDA } - { ARABIC DAMMA }
+3	{ ص } - { ح }
+3	{ ! } - { ؟ }
+3	{ م } - { ح }
+3	{ ف } - { د }
+3	{ ARABIC KASRA } - { ARABIC DAMMA }
+3	{ ARABIC FATHA } - { ARABIC HAMZA ABOVE }
+3	{ ۱ } - { SPACE }
+3	{ ARABIC SIGN TAKHALLUS } - { ARABIC FATHA }
+3	{  } - { ۴ }
+3	{ ۲ } - { ۸ }
+3	{  } - { ARABIC SIGN SANAH }
+3	{  } - { ( }
+3	{ ا } - { ج }
+3	{ – } - { ۔ }
+3	{ ے } - { ت }
+3	{ ت } - { ں }
+3	{ ی } - { ج }
+3	{ k } - { d }
+3	{ h } - { t }
+3	{ SPACE } - { “ }
+3	{ ’ } - { “ }
+3	{ ت } - { ھ }
+3	{ ١ } - { 1 }
+3	{ P } - { p }
+3	{ ژ } - { ث }
+3	{ 9 } - {  }
+3	{ ک } - { ر }
+3	{ ARABIC FATHA } - { ARABIC FATHATAN }
+3	{ SPACE } - { ARABIC KASRA }
+3	{ ے } - { ARABIC HAMZA ABOVE }
+3	{ ف } - { ب }
+3	{  } - { ط }
+3	{ و } - { ب }
+3	{ SPACE } - { ڑ }
+3	{ h } - {  }
+3	{ r } - {  }
+3	{ A } - { a }
+3	{ 2 } - { ۲ }
+3	{ H } - { n }
+3	{ v } - { u }
+3	{ I } - {  }
+3	{  } - { t }
+3	{ m } - { r }
+3	{ b } - { u }
+3	{ ڑ } - { SPACE }
+3	{ ﺅ } - { ARABIC HAMZA ABOVE }
+3	{ ف } - { ت }
+3	{ ل } - { ہ }
+3	{ ل } - { ڑ }
+3	{ ج } - { ت }
+3	{ ۔ } - { ک }
+3	{ ARABIC SHADDA } - { SPACE }
+3	{ ا } - { ۔ }
+3	{ ٹ } - { ک }
+3	{ 1 } - { ا }
+3	{ ف } - { ک }
+3	{ ي } - { ا }
+3	{ ع } - { ت }
+3	{ و } - { ک }
+3	{ ص } - { ع }
+3	{ ش } - { م }
+3	{  } - { ء }
+3	{ ١ } - { ۱ }
+3	{ ح } - { ص }
+3	{ ا } - { م }
+3	{ ڈ } - { و }
+3	{ &#34; } - { ، }
+3	{ ۲ } - { ۱ }
+3	{ ف } - { ا }
+3	{ ARABIC DAMMA } - { ARABIC HAMZA ABOVE }
+3	{ ARABIC HAMZA ABOVE } - { ء }
+3	{ ‘ } - { ، }
+3	{ ک } - { ح }
+3	{ ک } - { ٹ }
+3	{ ـ } - {  }
+3	{ م } - { ف }
+3	{ ف } - { ع }
+3	{ ح } - { ا }
+3	{ ڈ } - { ا }
+3	{ ۲ } - { ۴ }
+3	{ SPACE } - { ع }
+3	{ ض } - { ف }
+3	{ ARABIC KASRA } - { و }
+3	{ ع } - { س }
+3	{ ARABIC SUKUN } - { ARABIC DAMMA }
+3	{ ن } - { ش }
+3	{ ARABIC FATHA } - { ARABIC SIGN TAKHALLUS }
+3	{ ط } - { م }
+3	{ ARABIC SIGN RADI ALLAHOU ANHU } - {  }
+3	{ ھ } - { ص }
+3	{  } - { ۶ }
+3	{ ARABIC DAMMA } - { ARABIC SIGN TAKHALLUS }
+3	{ ۳ } - { ۴ }
+2	{ ب } - { ARABIC DAMMA }
+2	{ م } - { ي }
+2	{ ک } - { چ }
+2	{ گ } - { ف }
+2	{ \ } - {  }
+2	{ SPACE } - { ؎ }
+2	{ ARABIC FOOTNOTE MARKER } - { ع }
+2	{ س } - { ح }
+2	{ ARABIC FATHATAN } - { ARABIC HAMZA ABOVE }
+2	{ ے } - { س }
+2	{ ت } - { ص }
+2	{ د } - { ن }
+2	{ SPACE } - { ج }
+2	{ ش } - { ی }
+2	{ ع } - { ل }
+2	{ ب } - { ھ }
+2	{ SPACE } - { ARABIC FATHA }
+2	{ ج } - { و }
+2	{ SPACE } - { ب }
+2	{ ک } - { ش }
+2	{ ی } - { ARABIC SUKUN }
+2	{ س } - { ARABIC DAMMA }
+2	{ د } - { ۔ }
+2	{ و } - { ت }
+2	{ ی } - { ز }
+2	{ گ } - { م }
+2	{ ARABIC DAMMA } - { ARABIC KASRA }
+2	{ ARABIC SIGN TAKHALLUS } - { ا }
+2	{ ۴ } - { ۶ }
+2	{ ۴ } - { ۲ }
+2	{ ۔ } - { ں }
+2	{ ARABIC LETTER SUPERSCRIPT ALEF } - { ا }
+2	{ ق } - { ا }
+2	{ خ } - { ض }
+2	{ س } - { پ }
+2	{ ۸ } - { ۷ }
+2	{ : } - { ۔ }
+2	{ ARABIC HAMZA ABOVE } - { ہ }
+2	{ ARABIC KASRA } - { ARABIC SHADDA }
+2	{ د } - { ت }
+2	{ ۰ } - { ۵ }
+2	{ ث } - { ہ }
+2	{ ARABIC MADDAH ABOVE } - { ARABIC SIGN TAKHALLUS }
+2	{ م } - { ARABIC SHADDA }
+2	{ ARABIC SHADDA } - { ARABIC HAMZA ABOVE }
+2	{ ہ } - { ۃ }
+2	{ ۴ } - { ۱ }
+2	{ ۰ } - { ۲ }
+2	{ ۱ } - { ۵ }
+2	{ ۱ } - { ۳ }
+2	{ ARABIC HAMZA ABOVE } - { ا }
+2	{ ز } - { SPACE }
+2	{ ی } - { ۔ }
+2	{  } - { ث }
+2	{ ع } - { د }
+2	{ ج } - { ن }
+2	{ ۔ } - { ؟ }
+2	{ ھ } - { ے }
+2	{ ‘ } - { &#34; }
+2	{ پ } - { ش }
+2	{ ARABIC MADDAH ABOVE } - { ي }
+2	{ t } - {  }
+2	{ T } - { r }
+2	{ ت } - { ع }
+2	{ ا } - { &#34; }
+2	{ م } - { پ }
+2	{ ث } - { ل }
+2	{ 2 } - { SPACE }
+2	{ ہ } - { ٹ }
+2	{ G } - { s }
+2	{ B } - { d }
+2	{ ، } - { ے }
+2	{ خ } - { ب }
+2	{ &#39; } - { ” }
+2	{ SPACE } - { ، }
+2	{ T } - {  }
+2	{ “ } - { ۔ }
+2	{ ARABIC MADDAH ABOVE } - { ے }
+2	{ ح } - { ب }
+2	{ ج } - { ا }
+2	{ ث } - { غ }
+2	{ ز } - { ڑ }
+2	{ ح } - { ل }
+2	{ 2 } - {  }
+2	{ خ } - { و }
+2	{ ت } - { ARABIC MADDAH ABOVE }
+2	{ م } - { ش }
+2	{ s } - { e }
+2	{ e } - { a }
+2	{ ARABIC DAMMA } - { ک }
+2	{ o } - { e }
+2	{ b } - { o }
+2	{ ع } - { ن }
+2	{ د } - { چ }
+2	{ L } - { t }
+2	{ v } - { d }
+2	{ ٦ } - { 9 }
+2	{ ARABIC DAMMA } - { ت }
+2	{ 6 } - {  }
+2	{ ق } - { ح }
+2	{ ARABIC MADDAH ABOVE } - { ک }
+2	{ چ } - { ب }
+2	{ ] } - {  }
+2	{ ARABIC DAMMA } - { م }
+2	{ م } - { ھ }
+2	{ ا } - { ) }
+2	{ 8 } - { 4 }
+2	{ ع } - { ء }
+2	{ 9 } - { ۹ }
+2	{ 5 } - {  }
+2	{ ۹ } - { 9 }
+2	{ ا } - { ت }
+2	{ P } - { o }
+2	{ &#34; } - { ’ }
+2	{ ں } - { ہ }
+2	{ چ } - { ح }
+2	{ “ } - { ‘ }
+2	{ D } - { u }
+2	{  } - { e }
+2	{ ط } - { ح }
+2	{ ﺅ } - { و }
+2	{ ش } - { ف }
+2	{ ب } - { ز }
+2	{  } - { 2 }
+2	{  } - { 0 }
+2	{ م } - { ط }
+2	{ ٭ } - { a }
+2	{ c } - {  }
+2	{ ARABIC FATHATAN } - { ARABIC DAMMA }
+2	{ ت } - { چ }
+2	{ خ } - { چ }
+2	{ ی } - { ع }
+2	{ ے } - { ، }
+2	{ ا } - { ب }
+2	{ ٹ } - { م }
+2	{ ا } - { ح }
+2	{ ت } - { ف }
+2	{ ھ } - { س }
+2	{ u } - {  }
+2	{ v } - { r }
+2	{ ع } - { ر }
+2	{ گ } - { چ }
+2	{ 0 } - {  }
+2	{ 8 } - { 9 }
+2	{ ARABIC KASRA } - { ہ }
+2	{ گ } - { ب }
+2	{ . } - { ا }
+2	{ ط } - { د }
+2	{ ع } - { ک }
+2	{ ک } - { ق }
+2	{ و } - { ) }
+2	{ SPACE } - { ۸ }
+2	{ پ } - { م }
+2	{ ق } - { خ }
+2	{ ٹ } - { ل }
+2	{ ن } - { و }
+2	{ ص } - { ت }
+2	{ چ } - { ا }
+2	{ ر } - { خ }
+2	{ ب } - { ۔ }
+2	{ ه } - { SPACE }
+2	{ ح } - { ے }
+2	{ ب } - { ے }
+2	{ چ } - { ہ }
+2	{ ق } - { ک }
+2	{ ARABIC DAMMA } - { ا }
+2	{ ; } - { : }
+2	{ _ } - { - }
+2	{ ق } - { ہ }
+2	{ خ } - { ھ }
+2	{ غ } - { ظ }
+2	{  } - { ۵ }
+2	{ ل } - { ظ }
+2	{ ہ } - { ف }
+2	{ ذ } - { ن }
+2	{ = } - { . }
+2	{ پ } - { ن }
+2	{ ۰ } - { ہ }
+2	{ ۰ } - { و }
+2	{ ے } - { ز }
+2	{ ؍ } - { ر }
+2	{ ARABIC HAMZA ABOVE } - { م }
+2	{ ARABIC VOWEL SIGN INVERTED SMALL V ABOVE } - { ن }
+2	{ ۱ } - { ۲ }
+2	{ ر } - { ل }
+2	{ ARABIC DAMMA } - { SPACE }
+2	{ ؟ } - { ، }
+2	{ ، } - { و }
+2	{ ر } - { گ }
+2	{ ہ } - { ل }
+2	{ ARABIC KASRA } - { ARABIC SIGN TAKHALLUS }
+2	{ ن } - { د }
+2	{ ARABIC SUKUN } - { ق }
+2	{ l } - {  }
+2	{ ط } - { ARABIC DAMMA }
+2	{ ب } - { د }
+2	{ ظ } - { ا }
+2	{ ن } - { پ }
+2	{ ض } - { ع }
+2	{ ظ } - { خ }
+2	{ و } - { پ }
+2	{ ڑ } - { ہ }
+2	{ ARABIC SHADDA } - { ن }
+2	{ ۵ } - { ہ }
+2	{ ر } - { ح }
+2	{ ے } - { د }
+2	{ گ } - { و }
+2	{ ض } - { ی }
+2	{ ٹ } - { SPACE }
+2	{ ہ } - { ARABIC DAMMA }
+2	{ ( } - { ا }
+2	{ ۔ } - { ی }
+2	{ ژ } - { ش }
+2	{ ذ } - { ر }
+2	{ ر } - { ARABIC FATHA }
+2	{  } - { ARABIC FOOTNOTE MARKER }
+2	{ د } - { ARABIC HAMZA ABOVE }
+2	{ ع } - { SPACE }
+2	{ ۱ } - { ۶ }
+2	{ ج } - { س }
+2	{ و } - { ۱ }
+2	{ ARABIC HAMZA ABOVE } - { ۔ }
+2	{ ھ } - { ی }
+2	{ ARABIC HAMZA ABOVE } - { ARABIC FATHA }
+2	{ ARABIC HAMZA ABOVE } - { ARABIC DAMMA }
+2	{ خ } - { ہ }
+2	{ پ } - { ث }
+2	{ ا } - { ARABIC DAMMA }
+2	{ ف } - { ذ }
+2	{ ؍ } - { / }
+2	{ ARABIC FATHA } - { ل }
+2	{ پ } - { SPACE }
+2	{ غ } - { ق }
+2	{ ہ } - { ي }
+1	{ ج } - { ع }
+1	{ ک } - { ب }
+1	{ و } - { ھ }
+1	{ ش } - { ح }
+1	{ ا } - { س }
+1	{ ا } - { ف }
+1	{ ہ } - { ARABIC KASRA }
+1	{ ARABIC FATHATAN } - { ARABIC SIGN RADI ALLAHOU ANHU }
+1	{ چ } - { ن }
+1	{ ARABIC MADDAH ABOVE } - { ۔ }
+1	{ ARABIC SIGN RADI ALLAHOU ANHU } - { ARABIC DAMMA }
+1	{ ت } - { گ }
+1	{ ٹ } - { ہ }
+1	{ ا } - { خ }
+1	{ ARABIC DAMMA } - { ر }
+1	{ ب } - { ARABIC FATHA }
+1	{ ح } - { ق }
+1	{ ۃ } - { د }
+1	{ ب } - { ٹ }
+1	{ ء } - { ی }
+1	{ ہ } - { گ }
+1	{ ڑ } - { ح }
+1	{ ARABIC DAMMA } - { و }
+1	{ ھ } - { ش }
+1	{ ARABIC DAMMA } - { ے }
+1	{ ج } - { ڑ }
+1	{ د } - { ARABIC LETTER SUPERSCRIPT ALEF }
+1	{ ARABIC SIGN TAKHALLUS } - { ل }
+1	{ ی } - { ش }
+1	{ ARABIC LETTER SUPERSCRIPT ALEF } - { ڑ }
+1	{ ل } - { ڈ }
+1	{ ب } - { ش }
+1	{ ہ } - { ص }
+1	{ ی } - { خ }
+1	{ SPACE } - { ش }
+1	{ ض } - { ر }
+1	{ ق } - { ARABIC LETTER SUPERSCRIPT ALEF }
+1	{ خ } - { د }
+1	{ ع } - { گ }
+1	{ ش } - { و }
+1	{ ر } - { ع }
+1	{ ص } - { ب }
+1	{ ں } - { و }
+1	{ ل } - { ح }
+1	{ ا } - { ARABIC SUKUN }
+1	{ ح } - { و }
+1	{ ک } - { ۔ }
+1	{ ARABIC MADDAH ABOVE } - { ہ }
+1	{ ا } - { ھ }
+1	{ SPACE } - { ARABIC MADDAH ABOVE }
+1	{ ح } - { ٹ }
+1	{ ص } - { ڈ }
+1	{ ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM } - { ARABIC HAMZA ABOVE }
+1	{ ح } - { ي }
+1	{ ن } - { ARABIC SHADDA }
+1	{ گ } - { ق }
+1	{ پ } - { ARABIC DAMMA }
+1	{ ن } - { ھ }
+1	{ ف } - { SPACE }
+1	{ ق } - { SPACE }
+1	{ ب } - { غ }
+1	{ گ } - { خ }
+1	{ ز } - { چ }
+1	{ ARABIC SHADDA } - { و }
+1	{ ی } - { ح }
+1	{ ش } - { ز }
+1	{ ARABIC SHADDA } - { ڑ }
+1	{ ط } - { چ }
+1	{ ARABIC SIGN TAKHALLUS } - { ھ }
+1	{ ث } - { چ }
+1	{ خ } - { ا }
+1	{  } - { ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM }
+1	{ * } - {  }
+1	{ ARABIC SIGN RAHMATULLAH ALAYHE } - {  }
+1	{ پ } - { ص }
+1	{ ع } - { ے }
+1	{ ARABIC SIGN ALAYHE ASSALLAM } - { ے }
+1	{ ARABIC SIGN ALAYHE ASSALLAM } - { ی }
+1	{ ARABIC DAMMA } - { پ }
+1	{ { } - { . }
+1	{ ا } - { ع }
+1	{ ARABIC SHADDA } - { ARABIC SUKUN }
+1	{ ARABIC SUKUN } - { ARABIC FATHA }
+1	{ چ } - { ARABIC DAMMA }
+1	{ م } - { ARABIC KASRA }
+1	{ ی } - { ARABIC FOOTNOTE MARKER }
+1	{ ھ } - { ۲ }
+1	{ ۷ } - { ۱ }
+1	{ ۃ } - { ت }
+1	{ د } - { ج }
+1	{ ہ } - { ں }
+1	{ ARABIC FOOTNOTE MARKER } - { ARABIC KASRA }
+1	{ ۱ } - { ز }
+1	{ ہ } - { خ }
+1	{ ۷ } - { 4 }
+1	{ ARABIC SIGN TAKHALLUS } - { ب }
+1	{ ۰ } - { ۳ }
+1	{ و } - { ARABIC FATHA }
+1	{ ARABIC SUKUN } - { ARABIC KASRA }
+1	{ ا } - { ق }
+1	{ ARABIC KASRA } - { د }
+1	{ ARABIC SIGN TAKHALLUS } - { و }
+1	{ ARABIC FOOTNOTE MARKER } - { و }
+1	{ چ } - { ARABIC SIGN TAKHALLUS }
+1	{ ۵ } - { ARABIC SIGN SANAH }
+1	{ ARABIC FOOTNOTE MARKER } - { ل }
+1	{ د } - { ARABIC SIGN TAKHALLUS }
+1	{ SPACE } - { ARABIC SUKUN }
+1	{ SPACE } - { گ }
+1	{ س } - { ٹ }
+1	{ ARABIC SIGN TAKHALLUS } - { ي }
+1	{ ی } - { ARABIC SIGN TAKHALLUS }
+1	{ ARABIC SUKUN } - { ARABIC HAMZA ABOVE }
+1	{ ۲ } - { ARABIC FOOTNOTE MARKER }
+1	{ ت } - { ز }
+1	{ د } - { گ }
+1	{ ک } - { ذ }
+1	{ ۴ } - { ۷ }
+1	{ پ } - { ۔ }
+1	{ ARABIC DAMMA } - { ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM }
+1	{ ع } - { ي }
+1	{ ر } - { ” }
+1	{ ، } - { ARABIC HAMZA ABOVE }
+1	{ SPACE } - { ’ }
+1	{ ARABIC FATHA } - { ک }
+1	{ ہ } - { ء }
+1	{ r } - { h }
+1	{ k } - {  }
+1	{ ARABIC FATHATAN } - { ’ }
+1	{ ض } - { ج }
+1	{ &#34; } - { ر }
+1	{ ڑ } - { ARABIC MADDAH ABOVE }
+1	{ ARABIC KASRA } - { ، }
+1	{ ے } - { ’ }
+1	{ ث } - { ق }
+1	{ ز } - { س }
+1	{ J } - { d }
+1	{ o } - { s }
+1	{ C } - { S }
+1	{ A } - { h }
+1	{ I } - { t }
+1	{ w } - { s }
+1	{ i } - { l }
+1	{ ARABIC FATHATAN } - { &#34; }
+1	{ SPACE } - { 6 }
+1	{ E } - { o }
+1	{ I } - { l }
+1	{ y } - { l }
+1	{ ی } - { ى }
+1	{ ق } - { ” }
+1	{ ۴ } - { 2 }
+1	{ خ } - { ق }
+1	{ 5 } - { 3 }
+1	{ g } - { a }
+1	{ x } - {  }
+1	{ I } - { n }
+1	{ D } - { o }
+1	{ P } - { 9 }
+1	{ H } - { I }
+1	{  } - { r }
+1	{  } - { ه }
+1	{ c } - { a }
+1	{ ﴾ } - {  }
+1	{ ﴿ } - { ) }
+1	{ ﷲ } - { SPACE }
+1	{ ARABIC HAMZA ABOVE } - { ’ }
+1	{ ى } - {  }
+1	{ ARABIC DAMMA } - { ARABIC SHADDA }
+1	{ ‘ } - { “ }
+1	{ SPACE } - { ) }
+1	{ ARABIC KASRA } - { ی }
+1	{ غ } - { ی }
+1	{ &#34; } - { م }
+1	{ ب } - { ف }
+1	{ ت } - { ح }
+1	{ SPACE } - { ح }
+1	{ ARABIC LETTER SUPERSCRIPT ALEF } - { SPACE }
+1	{ ک } - { ھ }
+1	{ گ } - { ہ }
+1	{ 9 } - { 5 }
+1	{ F } - { S }
+1	{ ه } - {  }
+1	{ ARABIC SIGN RAHMATULLAH ALAYHE } - { ح }
+1	{ * } - { ھ }
+1	{ ۷ } - { 1 }
+1	{  } - { 7 }
+1	{  } - { 8 }
+1	{ م } - { ٹ }
+1	{ G } - { S }
+1	{ z } - { a }
+1	{  } - { l }
+1	{  } - { ‘ }
+1	{ F } - { ۳ }
+1	{ d } - { u }
+1	{ g } - { o }
+1	{ b } - { l }
+1	{  } - { o }
+1	{ n } - { r }
+1	{ g } - { 0 }
+1	{ . } - { 1 }
+1	{ ARABIC SIGN ALAYHE ASSALLAM } - { گ }
+1	{ SPACE } - { n }
+1	{ &#39; } - { l }
+1	{ SPACE } - { r }
+1	{ w } - { r }
+1	{ u } - { r }
+1	{ C } - { c }
+1	{ ARABIC SIGN ALAYHE ASSALLAM } - { ARABIC SHADDA }
+1	{ 8 } - { ۸ }
+1	{ ز } - { پ }
+1	{ ARABIC SMALL HIGH THREE DOTS } - {  }
+1	{ L } - { 1 }
+1	{ ٪ } - { S }
+1	{ 5 } - { 0 }
+1	{ E } - { e }
+1	{ E } - { c }
+1	{ x } - { r }
+1	{ f } - {  }
+1	{ f } - { n }
+1	{ E } - { r }
+1	{ M } - { I }
+1	{ T } - { I }
+1	{ p } - { o }
+1	{ H } - { r }
+1	{ M } - { n }
+1	{ v } - { y }
+1	{ f } - { r }
+1	{ ﴿ } - { &#34; }
+1	{ ARABIC DAMMATAN } - { ، }
+1	{ ARABIC HAMZA BELOW } - {  }
+1	{ ي } - { ى }
+1	{ ARABIC FATHA } - { ARABIC KASRA }
+1	{ ۴ } - { ۳ }
+1	{ = } - { ه }
+1	{ ARABIC SUKUN } - { ARABIC FATHATAN }
+1	{ ٦ } - { ۲ }
+1	{ ف } - { ؎ }
+1	{ ج } - { ض }
+1	{ 5 } - { ۹ }
+1	{ ح } - { ف }
+1	{ ٦ } - { n }
+1	{ ٧ } - { ۷ }
+1	{ ء } - { ں }
+1	{ ARABIC MADDAH ABOVE } - { ا }
+1	{ 9 } - { 8 }
+1	{ ‘ } - { : }
+1	{ 2 } - { 9 }
+1	{ ’ } - { ؟ }
+1	{ ] } - { ڈ }
+1	{ ڑ } - { پ }
+1	{ ARABIC KASRA } - { ب }
+1	{ ی } - { / }
+1	{ ش } - { 7 }
+1	{ ء } - { ہ }
+1	{ L } - { r }
+1	{ x } - { y }
+1	{ 6 } - { 8 }
+1	{ j } - {  }
+1	{ N } - { t }
+1	{ t } - { n }
+1	{ ک } - { ك }
+1	{ : } - { o }
+1	{ - } - { _ }
+1	{ 7 } - { 2 }
+1	{ / } - { ، }
+1	{ 5 } - { ۵ }
+1	{ 2 } - { 7 }
+1	{ 0 } - { 5 }
+1	{ 6 } - { 9 }
+1	{ 1 } - { ۲ }
+1	{ 9 } - { ہ }
+1	{ م } - { ڈ }
+1	{ ARABIC SIGN ALAYHE ASSALLAM } - { ARABIC SIGN RADI ALLAHOU ANHU }
+1	{ ض } - { ا }
+1	{ ARABIC HAMZA ABOVE } - { د }
+1	{ ” } - { SPACE }
+1	{  } - { ﷺ }
+1	{ ط } - { س }
+1	{ ARABIC INVERTED DAMMA } - { ARABIC DAMMA }
+1	{ ح } - { ں }
+1	{ ج } - { گ }
+1	{ ” } - { ف }
+1	{ ھ } - { ب }
+1	{ ك } - { ے }
+1	{ ل } - { پ }
+1	{ ARABIC MADDAH ABOVE } - { ت }
+1	{ ض } - { ق }
+1	{ C } - { r }
+1	{ l } - { t }
+1	{ ص } - { ل }
+1	{ خ } - { ع }
+1	{ ر } - { ھ }
+1	{ R } - { n }
+1	{ ARABIC DAMMA } - { ح }
+1	{ خ } - { ف }
+1	{ ض } - { غ }
+1	{ k } - { h }
+1	{ o } - { l }
+1	{ ﺅ } - { ’ }
+1	{ ” } - { ۔ }
+1	{ ARABIC DAMMA } - { ‘ }
+1	{ ھ } - { پ }
+1	{ ARABIC DAMMATAN } - {  }
+1	{ ذ } - { ڈ }
+1	{ ﷺ } - { ا }
+1	{ ARABIC LETTER SUPERSCRIPT ALEF } - { ’ }
+1	{ ل } - { ARABIC DAMMA }
+1	{ ٭ } - { ه }
+1	{ v } - {  }
+1	{  } - { s }
+1	{  } - { a }
+1	{ y } - { r }
+1	{ SPACE } - { t }
+1	{ ی } - { ٹ }
+1	{ گ } - { ۔ }
+1	{ م } - { ، }
+1	{ و } - { ذ }
+1	{ ة } - { ہ }
+1	{ ص } - { ی }
+1	{ ض } - { ش }
+1	{ ھ } - { ع }
+1	{ &#34; } - { ؟ }
+1	{ ف } - { ے }
+1	{ ل } - { ے }
+1	{ ۔ } - { ت }
+1	{ ح } - { ت }
+1	{ ص } - { ج }
+1	{ و } - { ز }
+1	{ ٢ } - {  }
+1	{ ق } - { س }
+1	{ 5 } - { 9 }
+1	{ 3 } - { 9 }
+1	{ ج } - { ، }
+1	{ ۲ } - { 1 }
+1	{ ض } - { ARABIC MADDAH ABOVE }
+1	{ ں } - { ز }
+1	{ ة } - {  }
+1	{ ” } - { ک }
+1	{ “ } - { ، }
+1	{ ھ } - { ل }
+1	{ ARABIC FATHA } - { گ }
+1	{ &lt; } - { ۷ }
+1	{ ں } - { ا }
+1	{ ۲ } - { ! }
+1	{ ي } - { گ }
+1	{ و } - { خ }
+1	{ ي } - { ARABIC HAMZA ABOVE }
+1	{ ھ } - { د }
+1	{ ڑ } - { م }
+1	{ ARABIC SHADDA } - { ط }
+1	{ ARABIC SHADDA } - { ى }
+1	{ ب } - { ARABIC HAMZA ABOVE }
+1	{ n } - { o }
+1	{ o } - { a }
+1	{ SPACE } - { o }
+1	{ s } - {  }
+1	{ t } - { 1 }
+1	{ P } - { e }
+1	{ l } - { n }
+1	{ y } - {  }
+1	{ T } - { n }
+1	{ G } - { 6 }
+1	{ p } - { h }
+1	{ h } - { n }
+1	{ F } - { e }
+1	{ o } - { d }
+1	{ r } - { t }
+1	{ SPACE } - { i }
+1	{ n } - { i }
+1	{ g } - { d }
+1	{ d } - { t }
+1	{ d } - { e }
+1	{ SPACE } - { e }
+1	{ [ } - { 1 }
+1	{ 2 } - { 6 }
+1	{ 4 } - { 9 }
+1	{  } - { 9 }
+1	{ ض } - { ت }
+1	{ ARABIC SIGN ALAYHE ASSALLAM } - { ARABIC HAMZA ABOVE }
+1	{ ض } - { ل }
+1	{ س } - { ھ }
+1	{ ں } - { SPACE }
+1	{ ARABIC MADDAH ABOVE } - { م }
+1	{ ARABIC DAMMA } - { ل }
+1	{ ت } - { ي }
+1	{ خ } - { ی }
+1	{ &#34; } - { د }
+1	{ ل } - { ص }
+1	{ ” } - { ق }
+1	{ W } - { y }
+1	{ V } - { y }
+1	{ V } - { d }
+1	{ M } - {  }
+1	{ F } - { ا }
+1	{ u } - { l }
+1	{ W } - { u }
+1	{ I } - { i }
+1	{ ١ } - {  }
+1	{ س } - { و }
+1	{ ۹ } - { ۸ }
+1	{ ، } - { SPACE }
+1	{ . } - { د }
+1	{ . } - { ب }
+1	{ . } - { و }
+1	{ ث } - { ٹ }
+1	{ گ } - { ظ }
+1	{ &#34; } - { ج }
+1	{ [ } - { ! }
+1	{ چ } - { ت }
+1	{ / } - {  }
+1	{ ’ } - { ں }
+1	{ ’ } - { ARABIC LETTER SUPERSCRIPT ALEF }
+1	{ U } - { o }
+1	{ E } - { S }
+1	{ ف } - { س }
+1	{ م } - { ں }
+1	{ ک } - { ARABIC LETTER SUPERSCRIPT ALEF }
+1	{ ٢ } - { ۳ }
+1	{ ٤ } - {  }
+1	{ ARABIC DAMMA } - { گ }
+1	{ ە } - { ہ }
+1	{ ? } - { ؟ }
+1	{ M } - { t }
+1	{ M } - { 1 }
+1	{ ظ } - { ع }
+1	{ ١ } - { ۲ }
+1	{ ، } - { ۶ }
+1	{ ١ } - { ا }
+1	{ &#34; } - { ہ }
+1	{ ص } - { ہ }
+1	{ ☆ } - { ۲ }
+1	{ 8 } - {  }
+1	{ ARABIC SIGN RAHMATULLAH ALAYHE } - { س }
+1	{ 8 } - { 6 }
+1	{ ٦ } - { ۶ }
+1	{ ض } - { ظ }
+1	{ T } - { m }
+1	{ w } - { n }
+1	{ ﷺ } - { ط }
+1	{ ظ } - { ل }
+1	{ ە } - { ي }
+1	{ ٣ } - { o }
+1	{ ٠ } - { d }
+1	{ W } - { 7 }
+1	{ F } - { n }
+1	{ ق } - { د }
+1	{ B } - { S }
+1	{ [ } - { ا }
+1	{ ) } - { ے }
+1	{ [ } - { ی }
+1	{ ي } - { چ }
+1	{ و } - { چ }
+1	{ ی } - { چ }
+1	{ ه } - { ج }
+1	{ ب } - { ق }
+1	{ ش } - { ل }
+1	{ ۳ } - { ت }
+1	{ » } - { ہ }
+1	{ ش } - { ں }
+1	{ و } - { ں }
+1	{ و } - { س }
+1	{ ج } - { ’ }
+1	{ ر } - { ذ }
+1	{ م } - { ’ }
+1	{ SPACE } - { ARABIC LETTER SUPERSCRIPT ALEF }
+1	{ چ } - { د }
+1	{ ﴾ } - { ، }
+1	{ ہ } - { ع }
+1	{ ARABIC FATHA } - { ح }
+1	{ ڈ } - { ٹ }
+1	{ ں } - { ي }
+1	{ ( } - { r }
+1	{ W } - { n }
+1	{ ٴ } - { ARABIC SHADDA }
+1	{ ، } - { “ }
+1	{  } - { - }
+1	{ ؛ } - { SPACE }
+1	{  } - { _ }
+1	{ خ } - { س }
+1	{ ي } - { ش }
+1	{ ي } - { ت }
+1	{ ث } - { ز }
+1	{ ف } - { ہ }
+1	{ ح } - { ط }
+1	{ ن } - { ي }
+1	{ 8 } - { ۳ }
+1	{ ☆ } - { d }
+1	{ ھ } - { ء }
+1	{ ض } - { ہ }
+1	{ ڈ } - { ل }
+1	{ ہ } - { ط }
+1	{ ع } - { ب }
+1	{ ARABIC LETTER SUPERSCRIPT ALEF } - { ی }
+1	{ - } - { ۰ }
+1	{ ص } - { و }
+1	{ ب } - { و }
+1	{ ن } - { ض }
+1	{ ٹ } - { ف }
+1	{ ARABIC KASRA } - { ع }
+1	{ ظ } - { ذ }
+1	{ ت } - { ۔ }
+1	{ ARABIC KASRA } - { ل }
+1	{ = } - { ت }
+1	{ = } - { &#34; }
+1	{ ۴ } - { ۸ }
+1	{ ض } - { ن }
+1	{ و } - { ARABIC SHADDA }
+1	{ ق } - { ARABIC SUKUN }
+1	{ و } - { &#34; }
+1	{ ARABIC MADDAH ABOVE } - { ل }
+1	{ ARABIC KASRA } - { ج }
+1	{ ق } - { ر }
+1	{ ! } - { ا }
+1	{ ۷ } - { ۵ }
+1	{ ؛ } - {  }
+1	{ ؛ } - { ، }
+1	{ ۸ } - { ۵ }
+1	{ ک } - { ARABIC DAMMA }
+1	{ ح } - { ش }
+1	{ ARABIC KASRA } - { م }
+1	{ ، } - { ط }
+1	{ ، } - { ک }
+1	{ د } - { ARABIC KASRA }
+1	{ ARABIC KASRA } - { س }
+1	{ چ } - { ث }
+1	{ ARABIC VOWEL SIGN INVERTED SMALL V ABOVE } - { ARABIC SUKUN }
+1	{ ، } - { ن }
+1	{ ، } - { ! }
+1	{ گ } - { ، }
+1	{ ں } - { ARABIC HAMZA ABOVE }
+1	{  } - { ؟ }
+1	{ ARABIC FATHA } - { SPACE }
+1	{ ع } - { ص }
+1	{ ز } - { ک }
+1	{ &#34; } - { ARABIC HAMZA ABOVE }
+1	{ ش } - { ARABIC DAMMA }
+1	{ ف } - { ۔ }
+1	{ ط } - { ف }
+1	{ ھ } - { ARABIC DAMMA }
+1	{ ع } - { خ }
+1	{ ( } - { ؎ }
+1	{ ھ } - { ۵ }
+1	{ ر } - { ARABIC KASRA }
+1	{ ز } - { ف }
+1	{ ( } - { ع }
+1	{ ف } - { ح }
+1	{ ز } - { م }
+1	{ ﷲ } - { س }
+1	{ ARABIC KASRA } - { ARABIC HAMZA ABOVE }
+1	{ و } - { ٹ }
+1	{ غ } - { ا }
+1	{ ز } - { ا }
+1	{ ARABIC SHADDA } - { ا }
+1	{ &#34; } - { ت }
+1	{ ARABIC LETTER SUPERSCRIPT ALEF } - { ہ }
+1	{ ARABIC LETTER SUPERSCRIPT ALEF } - { ل }
+1	{ ۲ } - { ن }
+1	{ ۹ } - { ج }
+1	{ ۶ } - { ہ }
+1	{ ظ } - { پ }
+1	{ ط } - { گ }
+1	{ SPACE } - { پ }
+1	{ چ } - { ی }
+1	{ ط } - { ڑ }
+1	{ ط } - { ہ }
+1	{ ARABIC KASRA } - { SPACE }
+1	{ ج } - { د }
+1	{ ج } - { ص }
+1	{ ت } - { ڑ }
+1	{ ک } - { ز }
+1	{ ث } - { ی }
+1	{ ح } - { ن }
+1	{ ARABIC SIGN ALAYHE ASSALLAM } - { ش }
+1	{ ص } - { ا }
+1	{ ظ } - { غ }
+1	{ ی } - { ث }
+1	{ ص } - { ک }
+1	{ ARABIC SHADDA } - { خ }
+1	{ ہ } - { ش }
+1	{ ل } - { چ }
+1	{ خ } - { ر }
+1	{ ش } - { پ }
+1	{ ؎ } - { ا }
+1	{ ا } - { گ }
+1	{ ) } - { ز }
+1	{ ڑ } - { و }
+1	{ ARABIC HAMZA ABOVE } - { ARABIC KASRA }
+1	{ ق } - { ش }
+1	{ क } - { ۵ }
+1	{ DEVANAGARI VOWEL SIGN AA } - { ۲ }
+1	{ क } - { ۹ }
+1	{ SPACE } - { ARABIC HAMZA ABOVE }
+1	{ ا } - { ARABIC MADDAH ABOVE }
+1	{ ) } - { پ }
+1	{ ث } - { ا }
+1	{ ۲ } - { ۷ }
+1	{ ق } - { ؎ }
+1	{ پ } - { ے }
+1	{ ۰ } - { ۸ }
+1	{ ARABIC SIGN ALAYHE ASSALLAM } - { ARABIC LETTER SUPERSCRIPT ALEF }
+1	{ ( } - { ۔ }
+1	{ ڈ } - { SPACE }
+1	{ ت } - { ج }
+1	{ ن } - { ذ }
+1	{ ARABIC SHADDA } - { ک }
+1	{ ARABIC DAMMA } - { ف }
+1	{ ARABIC FATHA } - { د }
+1	{ ARABIC FATHA } - { ت }
+1	{ ARABIC HAMZA ABOVE } - { ے }
+1	{ ARABIC HAMZA ABOVE } - { ث }
+1	{ ؎ } - { ۔ }
+1	{ ذ } - { ہ }
+1	{ ڈ } - { پ }
+1	{ م } - { ۔ }
+1	{ ن } - { ڑ }
+1	{ ؛ } - { ARABIC HAMZA ABOVE }
+1	{ ش } - { ب }
+1	{ ہ } - { ARABIC FATHATAN }
+1	{ ARABIC FOOTNOTE MARKER } - { SPACE }
+1	{ ARABIC SIGN TAKHALLUS } - { ج }
+1	{ ARABIC SIGN RADI ALLAHOU ANHU } - { ARABIC MADDAH ABOVE }
+1	{ ؛ } - { ہ }
+1	{ ARABIC SIGN RADI ALLAHOU ANHU } - { ۔ }
+1	{ ی } - { ARABIC SHADDA }
+1	{ غ } - { ر }
+1	{ ARABIC HAMZA ABOVE } - { ARABIC MADDAH ABOVE }
+1	{ ﷲ } - { ت }
+1	{ ۴ } - { SPACE }
+1	{ ARABIC FATHA } - { و }
+1	{ ۵ } - { ۹ }
+1	{ ۳ } - { ARABIC SIGN SANAH }
+1	{ ے } - { چ }
+1	{ ے } - { خ }
+1	{ ۹ } - { ARABIC FOOTNOTE MARKER }
+1	{ ۷ } - { ۰ }
+1	{ SPACE } - { ء }
+1	{ ؍ } - {  }
+1	{ خ } - { ظ }
+1	{ ء } - { ARABIC FOOTNOTE MARKER }
+1	{ ۸ } - { ۱ }
+1	{ ل } - { ARABIC SHADDA }
+1	{ ۲ } - { ۔ }
+1	{ د } - { پ }
+1	{ ARABIC HAMZA ABOVE } - { ک }
+1	{ خ } - { ل }
+1	{ ل } - { ط }
+1	{ ڑ } - { ک }
+1	{ ۵ } - { ۲ }
+1	{ ۶ } - { 9 }
+1	{ ARABIC HAMZA ABOVE } - { س }
+1	{ ۲ } - { ر }
+1	{ ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM } - { خ }
+1	{ * } - { ۶ }
+1	{ * } - { ۲ }
+1	{ ع } - { ق }
+1	{ ک } - { ARABIC HAMZA ABOVE }
+1	{  } - { ) }
+1	{ ARABIC HAMZA ABOVE } - { ڑ }
+1	{ / } - { ی }
+1	{ ARABIC DAMMA } - { ی }
+1	{ س } - { ے }
+1	{ ج } - { ق }
+1	{ ش } - { ق }
+1	{ ARABIC SHADDA } - { ر }
+1	{ ز } - { و }
+1	{ ا } - { 7 }
+1	{ ARABIC DAMMATAN } - { ARABIC SIGN RADI ALLAHOU ANHU }
+1	{ ARABIC DAMMATAN } - { و }
+1	{ ۱ } - { ر }
+1	{ ۱ } - { ؟ }
+1	{ ARABIC HAMZA ABOVE } - { ر }
+1	{ ۳ } - { ‘ }
+1	{ ( } - { ح }
+1	{ ۴ } - { &#34; }
+1	{ ARABIC SHADDA } - { ق }
+1	{ د } - { ف }
+1	{ ARABIC DAMMA } - { ج }
+1	{ د } - { ح }
+1	{ ء } - { ARABIC HAMZA ABOVE }
+1	{ ب } - { ! }
+1	{ ٫ } - { ؟ }
+1	{ ء } - { ے }
+1	{ SPACE } - { چ }
+1	{ ب } - { چ }
+1	{ ٹ } - { ب }
+1	{ پ } - { ل }
+1	{ ز } - { ش }
+1	{ . } - { ں }
+1	{ س } - { گ }
+1	{ س } - { ARABIC HAMZA ABOVE }
+1	{ ے } - { ھ }
+1	{ ڑ } - { ت }
+1	{ پ } - { د }
+1	{ ل } - { ARABIC MADDAH ABOVE }
+1	{ { } - {  }
+1	{ ۃ } - {  }
+1	{ ے } - { پ }
+1	{ ب } - { ARABIC MADDAH ABOVE }
+1	{ ک } - { ڑ }
+1	{ ا } - { ڑ }
+1	{ ھ } - { گ }
+1	{ ھ } - { ا }
+1	{ ھ } - { ث }
+1	{ ا } - { ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM }
+1	{ چ } - { و }
+1	{ ی } - { 7 }
+1	{ = } - {  }
+1	{ ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM } - { ARABIC SHADDA }
+1	{ ۲ } - { SPACE }
+1	{ ں } - { ۲ }
+1	{ ز } - { ت }
+1	{ ق } - { و }
+1	{ ۲ } - { . }
+1	{ و } - { ARABIC DAMMA }
+1	{ ARABIC SIGN TAKHALLUS } - { پ }
+1	{ ؟ } - { SPACE }
+1	{ SPACE } - { ۲ }
+1	{ خ } - { ے }
+1	{ ل } - { ش }
+1	{ ک } - { ARABIC MADDAH ABOVE }
+1	{ ۷ } - { ۔ }
+1	{ ۷ } - { ARABIC SIGN SANAH }
+1	{ ص } - { ARABIC DAMMA }
+1	{ ٹ } - { ط }
+1	{ ۰ } - { ۶ }
+1	{ چ } - { خ }
+1	{ ج } - { ر }
+1	{ ت } - { ARABIC SHADDA }
+1	{ ARABIC SIGN TAKHALLUS } - { ی }
+1	{ ۲ } - { ۹ }
+1	{ ۱ } - { ۔ }
+1	{ ہ } - { ۱ }
+1	{ ARABIC FATHATAN } - { ی }
+1	{ د } - { ھ }
+1	{ ۴ } - { ا }
+1	{ ق } - { ص }
+1	{ ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM } - { ح }
+1	{ ARABIC SHADDA } - { ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM }
+1	{  } - { ۰ }
+1	{ ر } - { . }
+1	{ ۵ } - { ی }
+1	{ ج } - { ھ }
+1	{ ۵ } - { ARABIC FOOTNOTE MARKER }
+1	{ ۰ } - { ۱ }
+1	{ ARABIC MARK NOON GHUNNA } - { ARABIC SHADDA }
+1	{ ذ } - { و }
+1	{ ARABIC HAMZA ABOVE } - { ARABIC LETTER SUPERSCRIPT ALEF }
+1	{ ۶ } - { ARABIC SIGN RADI ALLAHOU ANHU }
+1	{ ARABIC SIGN TAKHALLUS } - { ر }
+1	{ ۱ } - { ! }
+1	{ د } - { ب }
+1	{ ژ } - { ذ }
+1	{ ش } - { ARABIC FATHA }
+1	{ ۃ } - { ن }
+1	{ ل } - { ARABIC FATHA }
+1	{ ی } - { ڑ }
+1	{ م } - { ARABIC FATHA }
+1	{ ش } - { ر }
+1	{ ا } - { ش }
+1	{ ز } - { ی }
+1	{ و } - { ف }
+1	{ ARABIC FATHA } - { ا }
+1	{ ARABIC FATHATAN } - { و }
+1	{ ج } - { ARABIC DAMMA }
+1	{ ARABIC DAMMA } - { ہ }
+1	{ گ } - { ن }
+1	{ ع } - { ARABIC SUKUN }
+1	{ ض } - { ھ }
+1	{ ARABIC SUKUN } - { ص }
+1	{ SPACE } - { ARABIC FATHATAN }
+1	{ ٹ } - { ی }
+1	{ SPACE } - { ل }
+1	{ ظ } - { ف }
+1	{ ﷲ } - { ARABIC MADDAH ABOVE }
+1	{ ﷲ } - { د }
+1	{ م } - { ز }
+1	{ ق } - { ھ }
+1	{ د } - { ARABIC MADDAH ABOVE }
+1	{ ع } - { ظ }
+1	{ ARABIC SIGN TAKHALLUS } - { ARABIC KASRA }
+1	{ ARABIC KASRA } - { ن }
+1	{ ﷲ } - { ن }
+1	{ ARABIC DAMMA } - { ھ }
+1	{ م } - { چ }
+1	{ س } - { ARABIC FATHA }
+1	{ ر } - { ARABIC DAMMA }
+1	{ ھ } - { ٹ }
+
+Average accuracy: 98.18%, (stddev: 0.00)
+
