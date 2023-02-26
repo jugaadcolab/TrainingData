@@ -18,7 +18,7 @@ The automatic text recognition (ATR) model `urATR_best_17-2-23.mlmodel` was trai
 
 The segmentation model `urSEG_best.mlmodel` was trained from pages in the `baseline` directory.
 
-Models trained with `kraken==4.3.3`
+Models trained with [Kraken](https://github.com/mittagessen/kraken) `==4.3.3`
 
 ### Recognition Test Report
 
