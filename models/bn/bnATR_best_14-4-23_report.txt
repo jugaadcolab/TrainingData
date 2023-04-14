@@ -1,0 +1,1766 @@
+=== report  ===
+
+939301	Characters
+11092	Errors
+98.82%	Accuracy
+
+3520	Insertions
+2598	Deletions
+4974	Substitutions
+
+Count	Missed	%Right
+745901	6003	99.20%	Bengali
+190324	2220	98.83%	Common
+3076	271	91.19%	Latin
+
+Errors	Correct-Generated
+498	{ SPACE } - {  }
+426	{  } - { SPACE }
+316	{ BENGALI SIGN VIRAMA } - {  }
+274	{  } - { BENGALI VOWEL SIGN AA }
+269	{ , } - {  }
+242	{ BENGALI VOWEL SIGN AA } - {  }
+242	{ . } - {  }
+229	{ BENGALI VOWEL SIGN U } - {  }
+219	{  } - { BENGALI VOWEL SIGN E }
+210	{ ― } - { - }
+207	{  } - { , }
+197	{ BENGALI SIGN NUKTA } - {  }
+191	{  } - { BENGALI SIGN VIRAMA }
+157	{ র } - {  }
+142	{ র } - { ব }
+142	{  } - { BENGALI VOWEL SIGN U }
+140	{ BENGALI VOWEL SIGN E } - {  }
+112	{  } - { BENGALI SIGN NUKTA }
+106	{ ! } - { । }
+93	{  } - { র }
+86	{ BENGALI VOWEL SIGN UU } - { BENGALI VOWEL SIGN U }
+80	{ BENGALI VOWEL SIGN I } - {  }
+77	{ ন } - {  }
+72	{ ব } - { র }
+69	{  } - { ন }
+69	{ ত } - {  }
+67	{  } - { BENGALI VOWEL SIGN I }
+64	{ । } - { ! }
+63	{ । } - {  }
+58	{  } - { ব }
+57	{ ব } - {  }
+54	{  } - { ত }
+53	{ ল } - {  }
+53	{ - } - {  }
+52	{  } - { . }
+49	{ য } - {  }
+49	{  } - { ল }
+46	{ খ } - { থ }
+46	{ য } - { ষ }
+44	{  } - { &#39; }
+41	{ SPACE } - { - }
+41	{ BENGALI SIGN CANDRABINDU } - {  }
+40	{ স } - { ন }
+39	{ BENGALI VOWEL SIGN U } - { BENGALI VOWEL SIGN UU }
+39	{ ; } - {  }
+38	{ ম } - {  }
+37	{ BENGALI VOWEL SIGN UU } - {  }
+36	{  } - { - }
+34	{ য } - { র }
+34	{ র } - { য }
+33	{  } - { স }
+32	{ ম } - { স }
+31	{ &#39; } - {  }
+31	{ দ } - {  }
+31	{ BENGALI VOWEL SIGN E } - { BENGALI VOWEL SIGN AA }
+30	{  } - { ম }
+29	{ স } - {  }
+29	{ প } - {  }
+28	{ স } - { ম }
+27	{  } - { য }
+26	{  } - { । }
+26	{ BENGALI VOWEL SIGN AA } - { BENGALI VOWEL SIGN E }
+25	{ ক } - {  }
+25	{ - } - { SPACE }
+24	{ BENGALI VOWEL SIGN II } - {  }
+24	{ ম } - { ন }
+24	{ গ } - {  }
+24	{ ন } - { ণ }
+24	{  } - { প }
+24	{  } - { দ }
+24	{ BENGALI SIGN VIRAMA } - { SPACE }
+23	{ ভ } - { ত }
+23	{ BENGALI VOWEL SIGN E } - { BENGALI VOWEL SIGN I }
+23	{ ষ } - { য }
+23	{ SPACE } - { BENGALI VOWEL SIGN AA }
+23	{ হ } - {  }
+22	{ ন } - { ম }
+21	{  } - { হ }
+20	{ BENGALI VOWEL SIGN VOCALIC R } - {  }
+20	{ &#34; } - { &#39; }
+19	{  } - { BENGALI SIGN CANDRABINDU }
+19	{  } - { ; }
+19	{ ম } - { য }
+19	{ BENGALI VOWEL SIGN I } - { BENGALI VOWEL SIGN II }
+19	{ ত } - { ভ }
+18	{ থ } - { খ }
+18	{ ! } - {  }
+17	{ BENGALI VOWEL SIGN AA } - { SPACE }
+17	{ ত } - { র }
+16	{ &#39; } - { &#34; }
+16	{  } - { BENGALI VOWEL SIGN II }
+16	{ BENGALI VOWEL SIGN I } - { BENGALI VOWEL SIGN E }
+16	{  } - { ক }
+15	{ ক } - { ব }
+15	{  } - { গ }
+15	{ ॥ } - { । }
+14	{  } - { BENGALI VOWEL SIGN UU }
+14	{ ; } - { , }
+14	{ BENGALI VOWEL SIGN II } - { BENGALI VOWEL SIGN I }
+14	{ BENGALI VOWEL SIGN I } - { ন }
+14	{ BENGALI VOWEL SIGN E } - { SPACE }
+14	{ ই } - { হ }
+13	{  } - { BENGALI VOWEL SIGN VOCALIC R }
+13	{  } - { ! }
+13	{ , } - { SPACE }
+13	{  } - { ণ }
+13	{ BENGALI VOWEL SIGN I } - { BENGALI VOWEL SIGN AA }
+13	{ খ } - {  }
+13	{ BENGALI VOWEL SIGN U } - { BENGALI VOWEL SIGN E }
+13	{ BENGALI VOWEL SIGN AA } - { র }
+13	{ ব } - { ক }
+13	{ ন } - { স }
+12	{ BENGALI SIGN VIRAMA } - { BENGALI VOWEL SIGN AA }
+12	{ BENGALI VOWEL SIGN AA } - { BENGALI VOWEL SIGN II }
+12	{ স } - { য }
+12	{ ণ } - {  }
+12	{ দ } - { ন }
+12	{ জ } - {  }
+12	{ SPACE } - { BENGALI SIGN VIRAMA }
+12	{ SPACE } - { BENGALI VOWEL SIGN E }
+12	{ BENGALI VOWEL SIGN II } - { BENGALI VOWEL SIGN AA }
+12	{ SPACE } - { , }
+11	{ চ } - { ঢ }
+11	{ চ } - {  }
+11	{  } - { &#34; }
+11	{ BENGALI SIGN VIRAMA } - { BENGALI VOWEL SIGN E }
+11	{ ক } - { র }
+11	{ আ } - { অ }
+11	{ ব } - { য }
+10	{ - } - { ― }
+10	{ ল } - { ন }
+10	{ ২ } - {  }
+10	{ ব } - { ন }
+10	{ ই } - {  }
+10	{ BENGALI VOWEL SIGN AA } - { BENGALI VOWEL SIGN I }
+10	{ ছ } - { হ }
+10	{ ন } - { BENGALI VOWEL SIGN I }
+10	{ SPACE } - { ন }
+10	{ ধ } - {  }
+10	{  } - { শ }
+10	{ র } - { BENGALI VOWEL SIGN AA }
+10	{ BENGALI VOWEL SIGN E } - { BENGALI VOWEL SIGN U }
+10	{ শ } - {  }
+10	{ র } - { BENGALI VOWEL SIGN I }
+10	{ ন } - { BENGALI VOWEL SIGN AA }
+10	{ BENGALI VOWEL SIGN AA } - { BENGALI SIGN VIRAMA }
+10	{ উ } - { ঊ }
+10	{ BENGALI VOWEL SIGN AA } - { ন }
+10	{ ণ } - { ন }
+10	{ থ } - {  }
+9	{  } - { চ }
+9	{ BENGALI VOWEL SIGN VOCALIC R } - { BENGALI VOWEL SIGN U }
+9	{ স } - { প }
+9	{ - } - { , }
+9	{ র } - { ন }
+9	{ ঘ } - { ধ }
+9	{ SPACE } - { ব }
+9	{ BENGALI VOWEL SIGN U } - { BENGALI VOWEL SIGN AA }
+9	{ SPACE } - { র }
+9	{ ষ } - {  }
+9	{ ল } - { র }
+9	{ ব } - { ধ }
+9	{ BENGALI VOWEL SIGN AA } - { BENGALI VOWEL SIGN U }
+9	{ BENGALI VOWEL SIGN I } - { SPACE }
+9	{ ন } - { ত }
+9	{ ন } - { ল }
+8	{ BENGALI SIGN ANUSVARA } - {  }
+8	{ য } - { স }
+8	{ ত } - { ক }
+8	{ ক } - { ত }
+8	{ BENGALI VOWEL SIGN E } - { ল }
+8	{ ন } - { র }
+8	{ ভ } - {  }
+8	{  } - { জ }
+8	{  } - { খ }
+8	{ য } - { ম }
+8	{ ১ } - {  }
+8	{ BENGALI SIGN VIRAMA } - { র }
+8	{ BENGALI VOWEL SIGN U } - { SPACE }
+8	{ ব } - { BENGALI VOWEL SIGN E }
+8	{  } - { আ }
+8	{ র } - { ল }
+8	{ ঊ } - { উ }
+8	{ স } - { ল }
+8	{ ? } - { ! }
+8	{ i } - { l }
+8	{ । } - { ; }
+8	{ অ } - { আ }
+8	{ । } - { ॥ }
+7	{  } - { * }
+7	{ ল } - { ব }
+7	{ র } - { স }
+7	{ ন } - { দ }
+7	{ ছ } - {  }
+7	{ র } - { BENGALI VOWEL SIGN U }
+7	{ আ } - {  }
+7	{ য } - { ন }
+7	{ SPACE } - { BENGALI VOWEL SIGN I }
+7	{ ল } - { ম }
+7	{ BENGALI VOWEL SIGN E } - { ম }
+7	{ BENGALI SIGN VIRAMA } - { ল }
+7	{ ব } - { ত }
+7	{ ; } - { ! }
+7	{ O } - { o }
+7	{ ব } - { স }
+7	{ স } - { শ }
+7	{ G } - { d }
+7	{ ৲ } - {  }
+7	{  } - { ধ }
+7	{ BENGALI VOWEL SIGN E } - { . }
+6	{ য } - { BENGALI VOWEL SIGN AA }
+6	{ হ } - { ত }
+6	{  } - { থ }
+6	{ SPACE } - { য }
+6	{ য } - { SPACE }
+6	{ ল } - { BENGALI VOWEL SIGN I }
+6	{ ন } - { ব }
+6	{ ঠ } - { ট }
+6	{ ড } - {  }
+6	{ BENGALI SIGN NUKTA } - { BENGALI SIGN VIRAMA }
+6	{ ক } - { স }
+6	{ প } - { ব }
+6	{ ণ } - { BENGALI VOWEL SIGN AA }
+6	{ য } - { ব }
+6	{ ট } - {  }
+6	{ BENGALI VOWEL SIGN E } - { , }
+6	{ ঙ } - {  }
+6	{ ত } - { ন }
+6	{ প } - { দ }
+6	{ র } - { ত }
+6	{ ব } - { BENGALI VOWEL SIGN AA }
+6	{ প } - { BENGALI VOWEL SIGN AA }
+6	{ BENGALI VOWEL SIGN AA } - { ব }
+6	{ ল } - { SPACE }
+6	{ খ } - { BENGALI VOWEL SIGN AA }
+6	{ I } - { i }
+6	{ . } - { , }
+6	{ ৯ } - {  }
+6	{ BENGALI VOWEL SIGN AA } - { ক }
+6	{ দ } - { ব }
+6	{ SPACE } - { ম }
+6	{  } - { ০ }
+6	{ BENGALI VOWEL SIGN U } - { র }
+6	{ ― } - {  }
+5	{  } - { ঙ }
+5	{ এ } - {  }
+5	{ ষ } - { ম }
+5	{ ১ } - { ২ }
+5	{  } - { ট }
+5	{ ত } - { হ }
+5	{  } - { BENGALI AU LENGTH MARK }
+5	{ য } - { ঘ }
+5	{ G } - { C }
+5	{  } - { ষ }
+5	{ ব } - { BENGALI VOWEL SIGN I }
+5	{ য } - { ক }
+5	{ প } - { ত }
+5	{ স } - { র }
+5	{ স } - { SPACE }
+5	{ BENGALI VOWEL SIGN U } - { BENGALI SIGN VIRAMA }
+5	{ ছ } - { দ }
+5	{ ত } - { দ }
+5	{ ম } - { BENGALI VOWEL SIGN AA }
+5	{ থ } - { ব }
+5	{ BENGALI VOWEL SIGN AA } - { ল }
+5	{ ধ } - { প }
+5	{ SPACE } - { &#39; }
+5	{ ৪ } - { ৭ }
+5	{ য } - { ত }
+5	{ র } - { SPACE }
+5	{ ( } - {  }
+5	{ BENGALI VOWEL SIGN E } - { ব }
+5	{ স } - { ক }
+5	{ SPACE } - { স }
+5	{ BENGALI SIGN NUKTA } - { SPACE }
+5	{ ব } - { প }
+5	{ ন } - { য }
+5	{ ন } - { প }
+5	{ BENGALI VOWEL SIGN AA } - { থ }
+5	{ ক } - { SPACE }
+5	{ BENGALI VOWEL SIGN AA } - { খ }
+5	{  } - { ছ }
+5	{ স } - { গ }
+5	{ BENGALI VOWEL SIGN I } - { র }
+5	{  } - { ভ }
+5	{ ক } - { ল }
+5	{ ৩ } - {  }
+5	{ e } - { o }
+5	{ c } - { e }
+5	{  } - { l }
+5	{ ঘ } - { য }
+5	{ ৺ } - { &#34; }
+5	{ * } - {  }
+5	{  } - { ? }
+5	{ BENGALI SIGN VISARGA } - {  }
+5	{ র } - { ম }
+5	{ BENGALI VOWEL SIGN E } - { র }
+5	{ W } - { w }
+5	{  } - { ॥ }
+5	{ BENGALI VOWEL SIGN I } - { দ }
+5	{ BENGALI VOWEL SIGN I } - { BENGALI VOWEL SIGN U }
+5	{ ক } - { BENGALI VOWEL SIGN AA }
+5	{ র } - { BENGALI VOWEL SIGN E }
+5	{ শ } - { গ }
+5	{ ধ } - { থ }
+5	{  } - { BENGALI VOWEL SIGN AI }
+5	{ প } - { ল }
+5	{ স } - { অ }
+5	{ জ } - { র }
+5	{ র } - { , }
+5	{ ১ } - { ৯ }
+5	{ স } - { ব }
+5	{ ) } - {  }
+5	{ R } - { E }
+5	{ BENGALI VOWEL SIGN U } - { ব }
+5	{ প } - { শ }
+4	{ BENGALI AU LENGTH MARK } - {  }
+4	{ প } - { থ }
+4	{ ণ } - { শ }
+4	{ BENGALI VOWEL SIGN E } - { BENGALI VOWEL SIGN II }
+4	{ চ } - { ট }
+4	{ ২ } - { ১ }
+4	{ ক } - { হ }
+4	{ ম } - { ষ }
+4	{ SPACE } - { BENGALI VOWEL SIGN U }
+4	{ BENGALI VOWEL SIGN I } - { ব }
+4	{ ক } - { য }
+4	{ র } - { ক }
+4	{ ত } - { প }
+4	{ SPACE } - { BENGALI SIGN NUKTA }
+4	{ BENGALI VOWEL SIGN I } - { ল }
+4	{ BENGALI SIGN VIRAMA } - { ন }
+4	{ BENGALI VOWEL SIGN I } - { - }
+4	{ জ } - { হ }
+4	{ - } - { BENGALI VOWEL SIGN I }
+4	{ দ } - { ত }
+4	{ ল } - { BENGALI VOWEL SIGN E }
+4	{ ছ } - { BENGALI VOWEL SIGN AA }
+4	{ ব } - { ম }
+4	{ &#39; } - { SPACE }
+4	{ খ } - { BENGALI VOWEL SIGN E }
+4	{ ঝ } - {  }
+4	{ প } - { ক }
+4	{ BENGALI VOWEL SIGN E } - { ! }
+4	{ BENGALI SIGN NUKTA } - { BENGALI VOWEL SIGN AA }
+4	{ ব } - { ঝ }
+4	{ BENGALI VOWEL SIGN AA } - { , }
+4	{ জ } - { SPACE }
+4	{ BENGALI VOWEL SIGN UU } - { BENGALI VOWEL SIGN VOCALIC R }
+4	{ BENGALI VOWEL SIGN E } - { BENGALI SIGN NUKTA }
+4	{ য } - { BENGALI VOWEL SIGN E }
+4	{ BENGALI VOWEL SIGN AA } - { ণ }
+4	{ স } - { হ }
+4	{ BENGALI VOWEL SIGN AA } - { ত }
+4	{ ত } - { BENGALI VOWEL SIGN AA }
+4	{ BENGALI SIGN NUKTA } - { BENGALI VOWEL SIGN E }
+4	{ ল } - { স }
+4	{ হ } - { আ }
+4	{ জ } - { BENGALI VOWEL SIGN E }
+4	{ , } - { ; }
+4	{ শ } - { ল }
+4	{ BENGALI VOWEL SIGN UU } - { BENGALI SIGN VIRAMA }
+4	{ ব } - { ল }
+4	{ ল } - { ত }
+4	{ ঌ } - { এ }
+4	{ BENGALI SIGN VIRAMA } - { BENGALI VOWEL SIGN U }
+4	{ ছ } - { চ }
+4	{ হ } - { SPACE }
+4	{ ব } - { খ }
+4	{ BENGALI VOWEL SIGN E } - { ন }
+4	{ ম } - { BENGALI VOWEL SIGN E }
+4	{ ল } - { ক }
+4	{ শ } - { ন }
+4	{ ত } - { য }
+4	{ প } - { স }
+4	{ BENGALI VOWEL SIGN AA } - { প }
+4	{ SPACE } - { ল }
+4	{ জ } - { BENGALI VOWEL SIGN I }
+4	{ য } - { ধ }
+4	{ c } - { o }
+4	{ ৮ } - {  }
+4	{ i } - {  }
+4	{ P } - { R }
+4	{ K } - { T }
+4	{ ৫ } - {  }
+4	{ ০ } - {  }
+4	{ হ } - { ব }
+4	{ ; } - { । }
+4	{ BENGALI SIGN VIRAMA } - { - }
+4	{ BENGALI SIGN VIRAMA } - { শ }
+4	{ ক } - { ফ }
+4	{ ল } - { জ }
+4	{ BENGALI VOWEL SIGN AA } - { - }
+4	{ চ } - { হ }
+4	{ র } - { প }
+4	{ ঠ } - {  }
+4	{ র } - { জ }
+4	{ [ } - {  }
+4	{ ৷ } - {  }
+4	{ হ } - { ই }
+4	{ অ } - { জ }
+4	{ দ } - { ক }
+4	{  } - { ড }
+4	{ ম } - { ব }
+4	{ ন } - { SPACE }
+4	{ ল } - { প }
+4	{ চ } - { স }
+4	{ জ } - { ক }
+4	{ ত } - { ল }
+4	{ স } - { ত }
+4	{ ত } - { স }
+4	{ দ } - { র }
+4	{ ৮ } - { ১ }
+4	{ ৶ } - { ৹ }
+4	{ H } - { E }
+4	{ O } - { T }
+4	{ ৎ } - { BENGALI SIGN ANUSVARA }
+4	{ থ } - { ধ }
+4	{ গ } - { শ }
+4	{ প } - { গ }
+4	{ ম } - { SPACE }
+4	{ র } - { BENGALI SIGN VIRAMA }
+4	{ BENGALI VOWEL SIGN AA } - { . }
+3	{ ৮ } - { ০ }
+3	{ BENGALI SIGN VIRAMA } - { BENGALI VOWEL SIGN I }
+3	{  } - { ৩ }
+3	{ ড } - { দ }
+3	{ ত } - { ম }
+3	{  } - { উ }
+3	{ ৩ } - { ৭ }
+3	{ - } - { ; }
+3	{ ণ } - { প }
+3	{ BENGALI VOWEL SIGN U } - { গ }
+3	{ ঢ } - { চ }
+3	{ জ } - { ব }
+3	{ খ } - { SPACE }
+3	{ ব } - { জ }
+3	{ SPACE } - { খ }
+3	{ হ } - { BENGALI VOWEL SIGN AA }
+3	{ BENGALI VOWEL SIGN E } - { য }
+3	{  } - { এ }
+3	{ BENGALI VOWEL SIGN AA } - { ছ }
+3	{ BENGALI VOWEL SIGN AA } - { গ }
+3	{ আ } - { ক }
+3	{ BENGALI VOWEL SIGN E } - { খ }
+3	{ য } - { BENGALI SIGN VIRAMA }
+3	{ BENGALI VOWEL SIGN VOCALIC R } - { BENGALI VOWEL SIGN E }
+3	{ শ } - { BENGALI SIGN VIRAMA }
+3	{ অ } - {  }
+3	{ য } - { হ }
+3	{ ড } - { ঙ }
+3	{ ব } - { আ }
+3	{ দ } - { স }
+3	{ ন } - { গ }
+3	{ খ } - { ল }
+3	{ ম } - { শ }
+3	{ ত } - { BENGALI VOWEL SIGN E }
+3	{ BENGALI VOWEL SIGN E } - { ত }
+3	{ ম } - { ই }
+3	{ BENGALI SIGN VIRAMA } - { BENGALI SIGN NUKTA }
+3	{ প } - { ন }
+3	{ ল } - { BENGALI VOWEL SIGN AA }
+3	{ BENGALI VOWEL SIGN AA } - { BENGALI SIGN NUKTA }
+3	{ BENGALI SIGN NUKTA } - { BENGALI VOWEL SIGN I }
+3	{ ম } - { ত }
+3	{ BENGALI VOWEL SIGN E } - { জ }
+3	{ আ } - { হ }
+3	{ ক } - { ঝ }
+3	{ ক } - { প }
+3	{ য } - { BENGALI VOWEL SIGN II }
+3	{ ল } - { শ }
+3	{ জ } - { ম }
+3	{ ক } - { ন }
+3	{ গ } - { ব }
+3	{ ঌ } - { * }
+3	{ ৭ } - {  }
+3	{ &#34; } - {  }
+3	{ ব } - { ষ }
+3	{ শ } - { প }
+3	{ ন } - { এ }
+3	{ ও } - {  }
+3	{ SPACE } - { ই }
+3	{ BENGALI VOWEL SIGN II } - { BENGALI VOWEL SIGN U }
+3	{ ন } - { BENGALI VOWEL SIGN E }
+3	{ খ } - { ব }
+3	{ ণ } - { ষ }
+3	{ আ } - { ম }
+3	{ ম } - { আ }
+3	{ প } - { ম }
+3	{ ধ } - { SPACE }
+3	{ BENGALI VOWEL SIGN I } - { জ }
+3	{ SPACE } - { ধ }
+3	{ জ } - { প }
+3	{ ভ } - { শ }
+3	{ , } - { BENGALI VOWEL SIGN E }
+3	{ শ } - { SPACE }
+3	{ f } - {  }
+3	{ s } - { a }
+3	{ L } - { t }
+3	{ ষ } - { প }
+3	{ L } - { l }
+3	{ f } - { t }
+3	{ ৬ } - {  }
+3	{ ৩ } - { ০ }
+3	{ j } - { i }
+3	{ B } - { S }
+3	{ q } - { d }
+3	{ V } - { T }
+3	{ ব } - { হ }
+3	{ n } - { a }
+3	{ র } - { ষ }
+3	{ BENGALI VOWEL SIGN I } - { BENGALI SIGN VIRAMA }
+3	{ BENGALI VOWEL SIGN AA } - { স }
+3	{ BENGALI VOWEL SIGN U } - { প }
+3	{ BENGALI VOWEL SIGN E } - { ক }
+3	{ 1 } - { I }
+3	{ জ } - { ঞ }
+3	{ ? } - {  }
+3	{ C } - { c }
+3	{ BENGALI SIGN VIRAMA } - { BENGALI VOWEL SIGN VOCALIC R }
+3	{ হ } - { ছ }
+3	{ x } - { r }
+3	{ D } - { b }
+3	{ ষ } - { ব }
+3	{ ত } - { BENGALI VOWEL SIGN II }
+3	{ ব } - { SPACE }
+3	{ BENGALI VOWEL SIGN U } - { BENGALI VOWEL SIGN I }
+3	{ BENGALI VOWEL SIGN E } - { BENGALI SIGN VIRAMA }
+3	{ ল } - { য }
+3	{ য } - { গ }
+3	{ য } - { BENGALI VOWEL SIGN I }
+3	{ ম } - { র }
+3	{ - } - { BENGALI VOWEL SIGN E }
+3	{ হ } - { র }
+3	{ য } - { শ }
+3	{ হ } - { ল }
+3	{ দ } - { ল }
+3	{ র } - { BENGALI SIGN NUKTA }
+3	{ ষ } - { র }
+3	{ প } - { জ }
+3	{ হ } - { য }
+3	{ BENGALI SIGN VIRAMA } - { ত }
+3	{ BENGALI VOWEL SIGN UU } - { ন }
+3	{ স } - { ঙ }
+3	{ ট } - { ঢ }
+3	{ BENGALI VOWEL SIGN AI } - {  }
+3	{ BENGALI VOWEL SIGN AA } - { BENGALI SIGN ANUSVARA }
+3	{ ণ } - { ঙ }
+3	{ ক } - { আ }
+3	{ BENGALI VOWEL SIGN E } - { স }
+3	{ আ } - { ব }
+3	{ ম } - { BENGALI VOWEL SIGN I }
+3	{ গ } - { BENGALI VOWEL SIGN I }
+3	{ র } - { ধ }
+3	{ ব } - { চ }
+3	{ BENGALI VOWEL SIGN I } - { BENGALI VOWEL SIGN UU }
+3	{ হ } - { শ }
+3	{ চ } - { ব }
+3	{ BENGALI SIGN NUKTA } - { র }
+3	{ গ } - { ম }
+3	{ স } - { আ }
+3	{ ঞ } - {  }
+3	{ য } - { প }
+3	{ BENGALI VOWEL SIGN U } - { BENGALI SIGN NUKTA }
+3	{ ষ } - { ধ }
+3	{ SPACE } - { গ }
+3	{ BENGALI VOWEL SIGN VOCALIC R } - { BENGALI VOWEL SIGN AA }
+3	{ ম } - { অ }
+3	{ - } - { দ }
+3	{ ক } - { গ }
+3	{ র } - { দ }
+3	{ র } - { গ }
+3	{ গ } - { য }
+3	{ ত } - { ও }
+3	{ BENGALI SIGN VISARGA } - { : }
+3	{ P } - { T }
+3	{ N } - { E }
+3	{ A } - { T }
+3	{ I } - {  }
+3	{ ধ } - { ব }
+3	{ BENGALI SIGN CANDRABINDU } - { &#39; }
+3	{ জ } - { ভ }
+3	{ ত } - { থ }
+3	{  } - { ই }
+3	{ হ } - { চ }
+3	{ গ } - { প }
+3	{ য } - { ফ }
+3	{ U } - { u }
+3	{ ॥ } - {  }
+3	{ BENGALI VOWEL SIGN I } - { গ }
+3	{ BENGALI SIGN VIRAMA } - { য }
+3	{ ল } - { । }
+3	{ BENGALI VOWEL SIGN AA } - { । }
+3	{ BENGALI VOWEL SIGN AA } - { য }
+3	{ স } - { BENGALI VOWEL SIGN E }
+3	{ দ } - { SPACE }
+3	{ BENGALI SIGN ANUSVARA } - { BENGALI SIGN VISARGA }
+3	{ ন } - { . }
+2	{ ষ } - { ক }
+2	{ ৺ } - {  }
+2	{ ৯ } - { ০ }
+2	{ ঢ } - { শ }
+2	{ । } - { SPACE }
+2	{ BENGALI SIGN NUKTA } - { য }
+2	{ BENGALI VOWEL SIGN U } - { BENGALI VOWEL SIGN VOCALIC R }
+2	{ র } - { ড }
+2	{ স } - { ষ }
+2	{ , } - { - }
+2	{ SPACE } - { &#34; }
+2	{ উ } - {  }
+2	{ ৩ } - { ৯ }
+2	{ । } - { , }
+2	{ ঐ } - { এ }
+2	{ F } - { P }
+2	{ BENGALI SIGN NUKTA } - { - }
+2	{ - } - { শ }
+2	{ , } - { র }
+2	{ ন } - { ; }
+2	{ ড } - { র }
+2	{ দ } - { জ }
+2	{ গ } - { BENGALI VOWEL SIGN AA }
+2	{ জ } - { দ }
+2	{ গ } - { BENGALI VOWEL SIGN U }
+2	{ হ } - { জ }
+2	{ BENGALI VOWEL SIGN I } - { ক }
+2	{ , } - { &#39; }
+2	{ ঙ } - { BENGALI VOWEL SIGN E }
+2	{ র } - { খ }
+2	{ ক } - { অ }
+2	{ খ } - { র }
+2	{ হ } - { অ }
+2	{ ! } - { BENGALI VOWEL SIGN E }
+2	{ ও } - { ক }
+2	{  } - { ঝ }
+2	{ অ } - { হ }
+2	{ ষ } - { BENGALI VOWEL SIGN AA }
+2	{ প } - { চ }
+2	{ শ } - { ত }
+2	{ চ } - { BENGALI VOWEL SIGN AA }
+2	{ BENGALI VOWEL SIGN I } - { শ }
+2	{ স } - { ফ }
+2	{ ছ } - { ন }
+2	{ ! } - { , }
+2	{ হ } - { ম }
+2	{ জ } - { ঙ }
+2	{ ই } - { স }
+2	{ ছ } - { ল }
+2	{ ফ } - { BENGALI VOWEL SIGN E }
+2	{ BENGALI VOWEL SIGN AA } - { দ }
+2	{ এ } - { শ }
+2	{ BENGALI VOWEL SIGN E } - { - }
+2	{ র } - { ভ }
+2	{ ণ } - { BENGALI SIGN VIRAMA }
+2	{ BENGALI VOWEL SIGN VOCALIC R } - { BENGALI VOWEL SIGN I }
+2	{ ; } - { র }
+2	{ BENGALI SIGN VIRAMA } - { ণ }
+2	{ BENGALI VOWEL SIGN I } - { BENGALI VOWEL SIGN VOCALIC R }
+2	{ ই } - { ম }
+2	{ থ } - { BENGALI VOWEL SIGN I }
+2	{ হ } - { BENGALI SIGN VIRAMA }
+2	{ ল } - { ছ }
+2	{ ক } - { ই }
+2	{ BENGALI VOWEL SIGN I } - { BENGALI SIGN NUKTA }
+2	{ খ } - { প }
+2	{ থ } - { ম }
+2	{ ভ } - { দ }
+2	{ ম } - { থ }
+2	{ দ } - { ভ }
+2	{ দ } - { চ }
+2	{ ট } - { য }
+2	{ আ } - { ধ }
+2	{ য } - { ট }
+2	{ থ } - { BENGALI VOWEL SIGN AA }
+2	{ খ } - { ধ }
+2	{ ঢ } - { দ }
+2	{ BENGALI VOWEL SIGN I } - { ত }
+2	{ , } - { ম }
+2	{ , } - { BENGALI VOWEL SIGN AA }
+2	{ ঙ } - { প }
+2	{ ৴ } - {  }
+2	{ দ } - { এ }
+2	{ BENGALI VOWEL SIGN E } - { ই }
+2	{ ধ } - { ন }
+2	{ এ } - { ন }
+2	{ ই } - { BENGALI VOWEL SIGN AA }
+2	{ SPACE } - { হ }
+2	{ এ } - { দ }
+2	{  } - { ও }
+2	{ BENGALI VOWEL SIGN U } - { BENGALI VOWEL SIGN II }
+2	{ চ } - { প }
+2	{ দ } - { প }
+2	{ ল } - { BENGALI SIGN VIRAMA }
+2	{ স } - { দ }
+2	{ ট } - { ঠ }
+2	{ ব } - { ণ }
+2	{ ধ } - { র }
+2	{ ম } - { জ }
+2	{ জ } - { শ }
+2	{ ন } - { BENGALI VOWEL SIGN U }
+2	{ ও } - { ট }
+2	{ SPACE } - { শ }
+2	{  } - { e }
+2	{ L } - { P }
+2	{ ফ } - { ক }
+2	{ a } - { u }
+2	{  } - { o }
+2	{ b } - { h }
+2	{ O } - { C }
+2	{ l } - {  }
+2	{ SPACE } - { . }
+2	{ ৩ } - { ৫ }
+2	{ ০ } - { ২ }
+2	{ ৶ } - { ৷ }
+2	{ ৹ } - { ০ }
+2	{  } - { ৯ }
+2	{ Ⅰ } - { I }
+2	{ N } - {  }
+2	{ : } - { BENGALI SIGN VISARGA }
+2	{ E } - { M }
+2	{ s } - { e }
+2	{ প } - { হ }
+2	{ BENGALI VOWEL SIGN II } - { SPACE }
+2	{ ; } - { BENGALI VOWEL SIGN E }
+2	{ স } - { BENGALI VOWEL SIGN U }
+2	{ ধ } - { ল }
+2	{ BENGALI VOWEL SIGN I } - { ; }
+2	{ ধ } - { - }
+2	{ SPACE } - { ণ }
+2	{ BENGALI VOWEL SIGN II } - { ব }
+2	{ । } - { BENGALI VOWEL SIGN I }
+2	{ 8 } - { f }
+2	{ 0 } - { o }
+2	{ q } - { o }
+2	{ 9 } - { o }
+2	{ t } - {  }
+2	{ 4 } - { d }
+2	{ : } - { ; }
+2	{ BENGALI VOWEL SIGN U } - { ল }
+2	{ ম } - { প }
+2	{ জ } - { অ }
+2	{ ? } - { ; }
+2	{  } - { অ }
+2	{ । } - { BENGALI VOWEL SIGN AA }
+2	{ হ } - { দ }
+2	{ জ } - { ল }
+2	{ ত } - { - }
+2	{ ভ } - { ন }
+2	{ ব } - { BENGALI SIGN VIRAMA }
+2	{ ক } - { জ }
+2	{ র } - { ! }
+2	{ - } - { BENGALI VOWEL SIGN AA }
+2	{ ছ } - { SPACE }
+2	{ আ } - { য }
+2	{ র } - { হ }
+2	{ র } - { আ }
+2	{ গ } - { SPACE }
+2	{ &#39; } - { BENGALI VOWEL SIGN AA }
+2	{ হ } - { ন }
+2	{ ঙ } - { ম }
+2	{ SPACE } - { BENGALI AU LENGTH MARK }
+2	{ ভ } - { র }
+2	{ স } - { চ }
+2	{ BENGALI VOWEL SIGN I } - { প }
+2	{ BENGALI VOWEL SIGN E } - { দ }
+2	{ ন } - { BENGALI VOWEL SIGN UU }
+2	{ চ } - { BENGALI VOWEL SIGN I }
+2	{ আ } - { র }
+2	{ ক } - { ঙ }
+2	{ শ } - { ক }
+2	{ খ } - { - }
+2	{ ৎ } - {  }
+2	{ BENGALI SIGN VIRAMA } - { BENGALI VOWEL SIGN II }
+2	{ প } - { ণ }
+2	{ ১ } - { অ }
+2	{ অ } - { স }
+2	{ চ } - { গ }
+2	{ BENGALI VOWEL SIGN AA } - { ! }
+2	{ চ } - { ত }
+2	{ SPACE } - { ক }
+2	{ BENGALI VOWEL SIGN U } - { জ }
+2	{ চ } - { য }
+2	{ গ } - { ন }
+2	{ ঙ } - { র }
+2	{ ঙ } - { ণ }
+2	{ শ } - { স }
+2	{ গ } - { ক }
+2	{ ব } - { অ }
+2	{ ক } - { BENGALI SIGN VIRAMA }
+2	{ অ } - { ব }
+2	{ শ } - { জ }
+2	{ ষ } - { BENGALI VOWEL SIGN E }
+2	{ BENGALI SIGN VIRAMA } - { ক }
+2	{ BENGALI SIGN NUKTA } - { ল }
+2	{ ল } - { হ }
+2	{ BENGALI VOWEL SIGN UU } - { BENGALI VOWEL SIGN I }
+2	{ BENGALI VOWEL SIGN AA } - { BENGALI VOWEL SIGN VOCALIC R }
+2	{ BENGALI VOWEL SIGN U } - { ত }
+2	{ BENGALI SIGN VIRAMA } - { স }
+2	{ য } - { ল }
+2	{ ধ } - { ত }
+2	{ র } - { চ }
+2	{ BENGALI SIGN VIRAMA } - { দ }
+2	{ ত } - { BENGALI VOWEL SIGN I }
+2	{ গ } - { র }
+2	{ SPACE } - { ভ }
+2	{ ৫ } - { ০ }
+2	{ . } - { ম }
+2	{ . } - { BENGALI VOWEL SIGN E }
+2	{ . } - { য }
+2	{ ব } - { BENGALI VOWEL SIGN U }
+2	{  } - { ৫ }
+2	{  } - { ৬ }
+2	{ ― } - { , }
+2	{ ঞ } - { ব }
+2	{ ― } - { SPACE }
+2	{ ল } - { ণ }
+2	{ Y } - { T }
+2	{ C } - { ( }
+2	{ 0 } - { T }
+2	{ B } - { R }
+2	{  } - { T }
+2	{ U } - { T }
+2	{ B } - { E }
+2	{ L } - { E }
+2	{ ৪ } - { ৫ }
+2	{  } - { ৪ }
+2	{ BENGALI SIGN VISARGA } - { BENGALI SIGN ANUSVARA }
+2	{ ঘ } - {  }
+2	{ থ } - { ত }
+2	{ BENGALI SIGN ANUSVARA } - { ৎ }
+2	{ জ } - { চ }
+2	{ K } - { R }
+2	{ ধ } - { খ }
+2	{ ল } - { ঙ }
+2	{ H } - { M }
+2	{ ৹ } - {  }
+2	{ BENGALI VOWEL SIGN E } - { BENGALI VOWEL SIGN AI }
+2	{ ০ } - { ৩ }
+2	{ ন } - { - }
+2	{ BENGALI VOWEL SIGN E } - { ষ }
+2	{  } - { ঠ }
+2	{ ত } - { ব }
+2	{ ॥ } - { ৷ }
+2	{ ০ } - { ৹ }
+2	{ ৯ } - { ২ }
+2	{ N } - { R }
+2	{ h } - { n }
+2	{ 2 } - { e }
+2	{ H } - { I }
+2	{ দ } - { য }
+2	{ BENGALI VOWEL SIGN AI } - { BENGALI VOWEL SIGN I }
+2	{ থ } - { গ }
+2	{ * } - { &#34; }
+2	{ জ } - { ন }
+2	{ ড } - { ত }
+2	{ BENGALI VOWEL SIGN E } - { ধ }
+2	{ SPACE } - { BENGALI VOWEL SIGN II }
+2	{ ধ } - { BENGALI VOWEL SIGN E }
+2	{ অ } - { ২ }
+2	{ ৫ } - { ২ }
+2	{ ন } - { শ }
+2	{ গ } - { ড }
+2	{ ম } - { ক }
+2	{ ঞ } - { ঙ }
+2	{ ব } - { । }
+2	{ । } - { ল }
+2	{ BENGALI VOWEL SIGN U } - { ন }
+2	{ শ } - { হ }
+2	{ ধ } - { দ }
+2	{ BENGALI VOWEL SIGN I } - { ম }
+2	{ ত } - { অ }
+2	{ অ } - { ত }
+2	{ BENGALI SIGN VIRAMA } - { ; }
+2	{ BENGALI SIGN VIRAMA } - { খ }
+2	{ ণ } - { ল }
+2	{ ল } - { BENGALI VOWEL SIGN U }
+2	{ র } - { BENGALI VOWEL SIGN VOCALIC R }
+2	{ BENGALI VOWEL SIGN VOCALIC R } - { র }
+2	{ র } - { BENGALI VOWEL SIGN II }
+2	{ ) } - { ব }
+2	{ ক } - { ২ }
+2	{ ব } - { ) }
+2	{ SPACE } - { ; }
+2	{ ও } - { এ }
+2	{ ম } - { . }
+2	{ দ } - { . }
+1	{ ক } - { ষ }
+1	{ আ } - { প }
+1	{ ৪ } - { ০ }
+1	{ BENGALI VOWEL SIGN AA } - { BENGALI AU LENGTH MARK }
+1	{ ড } - { ভ }
+1	{ ) } - { । }
+1	{  } - { ৷ }
+1	{ &#39; } - { ম }
+1	{ BENGALI VOWEL SIGN II } - { BENGALI SIGN CANDRABINDU }
+1	{ - } - { ধ }
+1	{  } - { ― }
+1	{ ] } - { ) }
+1	{ ম } - { ঙ }
+1	{ ঘ } - { ভ }
+1	{ BENGALI VOWEL SIGN U } - { &#39; }
+1	{ ঘ } - { ষ }
+1	{ শ } - { খ }
+1	{  } - { ঢ }
+1	{ ঘ } - { ত }
+1	{ ঢ } - {  }
+1	{ ত } - { ঘ }
+1	{ ৪ } - { ৮ }
+1	{ চ } - { ৪ }
+1	{ এ } - { ঐ }
+1	{ ২ } - { ৯ }
+1	{ খ } - { ক }
+1	{ য } - { &#39; }
+1	{ BENGALI VOWEL SIGN AA } - { হ }
+1	{ ? } - { , }
+1	{ &#39; } - { য }
+1	{ - } - { BENGALI SIGN NUKTA }
+1	{ BENGALI SIGN NUKTA } - { ? }
+1	{ শ } - { - }
+1	{ য } - { খ }
+1	{ ল } - { ৎ }
+1	{ ৎ } - { স }
+1	{ - } - { ব }
+1	{ ৎ } - { ল }
+1	{ দ } - { ছ }
+1	{ স } - { ৎ }
+1	{ ব } - { - }
+1	{ ঝ } - { স }
+1	{ দ } - { গ }
+1	{ অ } - { ক }
+1	{ গ } - { থ }
+1	{ ব } - { BENGALI SIGN NUKTA }
+1	{ ঘ } - { SPACE }
+1	{ ণ } - { র }
+1	{ BENGALI VOWEL SIGN E } - { ঞ }
+1	{ - } - { অ }
+1	{ BENGALI VOWEL SIGN E } - { BENGALI VOWEL SIGN VOCALIC R }
+1	{ BENGALI VOWEL SIGN AA } - { ষ }
+1	{ ঞ } - { শ }
+1	{ BENGALI SIGN VIRAMA } - { প }
+1	{ ত } - { , }
+1	{ গ } - { জ }
+1	{ ড } - { ঐ }
+1	{ ঐ } - { ড }
+1	{ ন } - { ! }
+1	{ . } - { SPACE }
+1	{ BENGALI VOWEL SIGN E } - { BENGALI SIGN ANUSVARA }
+1	{ - } - { স }
+1	{ BENGALI VOWEL SIGN U } - { ই }
+1	{ BENGALI VOWEL SIGN II } - { ক }
+1	{ ১ } - { ফ }
+1	{ ০ } - { র }
+1	{ ৯ } - { BENGALI VOWEL SIGN AA }
+1	{ ট } - { ৬ }
+1	{ BENGALI VOWEL SIGN E } - { ৬ }
+1	{ ৬ } - { ট }
+1	{ ৬ } - { ন }
+1	{ . } - { ১ }
+1	{ আ } - { দ }
+1	{ ত } - { উ }
+1	{ শ } - { উ }
+1	{ BENGALI SIGN VIRAMA } - { ঠ }
+1	{ শ } - { ম }
+1	{ উ } - { ত }
+1	{ উ } - { BENGALI VOWEL SIGN E }
+1	{ ঠ } - { র }
+1	{ র } - { ; }
+1	{ BENGALI SIGN NUKTA } - { ক }
+1	{ , } - { ভ }
+1	{ হ } - { ণ }
+1	{ ; } - { ক }
+1	{ BENGALI VOWEL SIGN I } - { থ }
+1	{ ক } - { ; }
+1	{ BENGALI SIGN VIRAMA } - { হ }
+1	{ &#39; } - { ব }
+1	{ ব } - { &#39; }
+1	{ ব } - { ই }
+1	{ ই } - { র }
+1	{ থ } - { য }
+1	{ প } - { খ }
+1	{ শ } - { BENGALI SIGN CANDRABINDU }
+1	{ ই } - { ক }
+1	{ BENGALI SIGN CANDRABINDU } - { শ }
+1	{ - } - { প }
+1	{ ল } - { থ }
+1	{ ল } - { খ }
+1	{ ! } - { ত }
+1	{ প } - { - }
+1	{ থ } - { ল }
+1	{ ঝ } - { ক }
+1	{ ত } - { ! }
+1	{ ক } - { ঘ }
+1	{ BENGALI SIGN CANDRABINDU } - { BENGALI VOWEL SIGN AA }
+1	{ ঘ } - { ক }
+1	{ চ } - { দ }
+1	{ ধ } - { আ }
+1	{ অ } - { শ }
+1	{ ড } - { জ }
+1	{ ও } - { স }
+1	{ হ } - { BENGALI VOWEL SIGN UU }
+1	{ ঘ } - { র }
+1	{ ৬ } - { উ }
+1	{ ঌ } - { ৯ }
+1	{ ঌ } - { ঠ }
+1	{ ঌ } - { ব }
+1	{ গ } - { দ }
+1	{ । } - { ? }
+1	{ য } - { দ }
+1	{ ব } - { ঘ }
+1	{ BENGALI VOWEL SIGN AA } - { ই }
+1	{ BENGALI VOWEL SIGN I } - { আ }
+1	{ আ } - { BENGALI VOWEL SIGN I }
+1	{ ই } - { BENGALI VOWEL SIGN E }
+1	{ ন } - { ধ }
+1	{ ই } - { SPACE }
+1	{ ণ } - { ম }
+1	{ ! } - { ক }
+1	{ ক } - { ! }
+1	{ শ } - { ৩ }
+1	{ ৩ } - { শ }
+1	{ ৪ } - { BENGALI VOWEL SIGN E }
+1	{ ; } - { ণ }
+1	{ ণ } - { ; }
+1	{ ণ } - { ব }
+1	{ ল } - { BENGALI SIGN ANUSVARA }
+1	{ ৫ } - { ক }
+1	{ ভ } - { প }
+1	{ ট } - { ও }
+1	{ ঞ } - { প }
+1	{ ২ } - { প }
+1	{ প } - { ২ }
+1	{ ঘ } - { ও }
+1	{ ট } - { গ }
+1	{ জ } - { স }
+1	{ ও } - { ঘ }
+1	{ গ } - { ট }
+1	{ স } - { জ }
+1	{ BENGALI SIGN NUKTA } - { প }
+1	{ ! } - { দ }
+1	{ BENGALI VOWEL SIGN I } - { য }
+1	{ দ } - { ! }
+1	{ H } - { i }
+1	{ e } - { d }
+1	{ L } - { T }
+1	{ F } - { h }
+1	{ i } - { f }
+1	{ ; } - { &#34; }
+1	{ I } - { l }
+1	{ e } - { c }
+1	{ W } - { P }
+1	{ d } - { &#39; }
+1	{ w } - { m }
+1	{ ৭ } - { ০ }
+1	{ &#34; } - { . }
+1	{ ৪ } - { ৩ }
+1	{ ৪ } - { ও }
+1	{ [ } - { ( }
+1	{ [ } - { ন }
+1	{ ] } - {  }
+1	{ । } - { ] }
+1	{ ন } - { ষ }
+1	{ j } - { d }
+1	{ F } - { R }
+1	{ 2 } - { SPACE }
+1	{  } - { A }
+1	{ f } - { a }
+1	{ R } - { B }
+1	{ f } - { e }
+1	{ r } - {  }
+1	{ L } - { H }
+1	{ B } - { s }
+1	{ G } - { SPACE }
+1	{  } - { C }
+1	{ l } - { d }
+1	{ J } - {  }
+1	{ h } - { t }
+1	{ I } - { [ }
+1	{ H } - { S }
+1	{ ⅹ } - { T }
+1	{ ⅲ } - { l }
+1	{  } - { i }
+1	{ ⅳ } - { v }
+1	{ স } - { BENGALI VOWEL SIGN I }
+1	{ - } - { BENGALI SIGN VIRAMA }
+1	{ ত } - { ণ }
+1	{ SPACE } - { ত }
+1	{ অ } - { প }
+1	{ BENGALI VOWEL SIGN II } - { ন }
+1	{ ম } - { BENGALI SIGN VISARGA }
+1	{ দ } - { BENGALI VOWEL SIGN II }
+1	{ ত } - { SPACE }
+1	{ 1 } - { i }
+1	{ 1 } - { r }
+1	{ D } - { i }
+1	{ j } - {  }
+1	{ ৭ } - { এ }
+1	{ উ } - { ই }
+1	{ G } - { S }
+1	{ ৬ } - { ও }
+1	{ 5 } - { s }
+1	{ 3 } - { A }
+1	{ Ⅹ } - { T }
+1	{ Ⅻ } - { T }
+1	{ N } - { A }
+1	{ 4 } - { A }
+1	{ 8 } - { s }
+1	{ ) } - { l }
+1	{ A } - { d }
+1	{ 6 } - { o }
+1	{  } - { t }
+1	{ q } - { u }
+1	{ e } - {  }
+1	{ e } - { &#34; }
+1	{ 1 } - { t }
+1	{ 9 } - { S }
+1	{ Ⅰ } - { P }
+1	{ 2 } - { ? }
+1	{ &amp; } - { A }
+1	{ 8 } - { h }
+1	{ 1 } - { o }
+1	{ 6 } - { s }
+1	{ 5 } - {  }
+1	{ t } - { : }
+1	{ x } - { g }
+1	{ ৵ } - {  }
+1	{ BENGALI VOWEL SIGN I } - { । }
+1	{ স } - { ৭ }
+1	{ ৭ } - { স }
+1	{ , } - { । }
+1	{ — } - { ― }
+1	{ ও } - { ত }
+1	{ আ } - { শ }
+1	{ আ } - { ত }
+1	{ আ } - { গ }
+1	{ ] } - { BENGALI VOWEL SIGN AA }
+1	{ ৩ } - { ৮ }
+1	{ ১ } - { এ }
+1	{ BENGALI VOWEL SIGN I } - { ভ }
+1	{ ত } - { ছ }
+1	{ ! } - { ব }
+1	{ BENGALI AU LENGTH MARK } - { ক }
+1	{ শ } - { এ }
+1	{ ছ } - { ক }
+1	{ - } - { ল }
+1	{ ; } - { জ }
+1	{ ণ } - { আ }
+1	{ - } - { র }
+1	{ এ } - { ফ }
+1	{ জ } - { ধ }
+1	{ র } - { এ }
+1	{ BENGALI VOWEL SIGN E } - { শ }
+1	{ ফ } - { চ }
+1	{ ফ } - { র }
+1	{ ধ } - { ম }
+1	{ শ } - { BENGALI VOWEL SIGN AA }
+1	{ BENGALI VOWEL SIGN I } - { &#39; }
+1	{ - } - { ছ }
+1	{ ছ } - { র }
+1	{ চ } - { BENGALI SIGN VIRAMA }
+1	{ BENGALI VOWEL SIGN AA } - { ট }
+1	{ শ } - { ও }
+1	{ শ } - { র }
+1	{ BENGALI VOWEL SIGN AA } - { ড }
+1	{ শ } - { BENGALI VOWEL SIGN E }
+1	{ দ } - { হ }
+1	{ ট } - { দ }
+1	{ - } - { খ }
+1	{ অ } - { SPACE }
+1	{ BENGALI VOWEL SIGN I } - { ণ }
+1	{ BENGALI VOWEL SIGN UU } - { SPACE }
+1	{ প } - { ভ }
+1	{ - } - { ঙ }
+1	{ ন } - { BENGALI SIGN VIRAMA }
+1	{ ড } - { ল }
+1	{ BENGALI SIGN NUKTA } - { ধ }
+1	{ য } - { - }
+1	{ BENGALI SIGN NUKTA } - { ভ }
+1	{ ভ } - { ক }
+1	{ জ } - { এ }
+1	{ - } - { BENGALI VOWEL SIGN VOCALIC R }
+1	{ ভ } - { য }
+1	{ ব } - { ট }
+1	{ এ } - { ঝ }
+1	{ দ } - { BENGALI VOWEL SIGN E }
+1	{ BENGALI VOWEL SIGN VOCALIC R } - { SPACE }
+1	{ ট } - { ন }
+1	{ ছ } - { ! }
+1	{ , } - { প }
+1	{ ঝ } - { BENGALI VOWEL SIGN AA }
+1	{ ক } - { , }
+1	{ ঝ } - { শ }
+1	{ ! } - { য }
+1	{ শ } - { চ }
+1	{ গ } - { আ }
+1	{ BENGALI AU LENGTH MARK } - { BENGALI VOWEL SIGN AA }
+1	{ র } - { শ }
+1	{ BENGALI VOWEL SIGN II } - { - }
+1	{ য } - { অ }
+1	{ দ } - { শ }
+1	{ ক } - { BENGALI VOWEL SIGN II }
+1	{ চ } - { ন }
+1	{ ল } - { চ }
+1	{ ৯ } - { ৫ }
+1	{ ঞ } - { ষ }
+1	{ উ } - { SPACE }
+1	{ + } - { t }
+1	{ + } - { d }
+1	{ ণ } - { গ }
+1	{ BENGALI VOWEL SIGN U } - { স }
+1	{ শ } - { ণ }
+1	{ ভ } - { উ }
+1	{ ৷ } - { * }
+1	{ ৷ } - { । }
+1	{ ৴ } - { ৷ }
+1	{ ৭ } - { প }
+1	{ ২ } - { এ }
+1	{ এ } - { ২ }
+1	{ ছ } - { জ }
+1	{ ৮ } - { ৫ }
+1	{ ( } - { [ }
+1	{ ৺ } - { ও }
+1	{ ১ } - { প }
+1	{ ৬ } - { BENGALI VOWEL SIGN UU }
+1	{ ন } - { ক }
+1	{ BENGALI VOWEL SIGN AI } - { প }
+1	{ SPACE } - { দ }
+1	{ । } - { BENGALI VOWEL SIGN E }
+1	{ BENGALI SIGN CANDRABINDU } - { স }
+1	{ য } - { ণ }
+1	{ BENGALI VOWEL SIGN UU } - { BENGALI VOWEL SIGN E }
+1	{ BENGALI SIGN VIRAMA } - { জ }
+1	{ প } - { ঙ }
+1	{ দ } - { BENGALI VOWEL SIGN AA }
+1	{ BENGALI VOWEL SIGN E } - { ণ }
+1	{ হ } - { BENGALI VOWEL SIGN II }
+1	{ BENGALI SIGN ANUSVARA } - { ন }
+1	{ BENGALI VOWEL SIGN UU } - { BENGALI VOWEL SIGN AI }
+1	{ গ } - { ঞ }
+1	{ BENGALI SIGN CANDRABINDU } - { SPACE }
+1	{ BENGALI VOWEL SIGN VOCALIC R } - { BENGALI SIGN NUKTA }
+1	{ জ } - { BENGALI VOWEL SIGN AA }
+1	{ ক } - { ঠ }
+1	{ BENGALI VOWEL SIGN II } - { BENGALI VOWEL SIGN E }
+1	{ ন } - { BENGALI VOWEL SIGN VOCALIC R }
+1	{ BENGALI VOWEL SIGN AI } - { BENGALI VOWEL SIGN E }
+1	{ BENGALI SIGN ANUSVARA } - { ঙ }
+1	{ ঞ } - { র }
+1	{ জ } - { - }
+1	{ ড } - { ম }
+1	{ BENGALI SIGN NUKTA } - { চ }
+1	{ র } - { ই }
+1	{ ঠ } - { ভ }
+1	{ BENGALI VOWEL SIGN VOCALIC R } - { ই }
+1	{ জ } - { য }
+1	{ ব } - { BENGALI VOWEL SIGN II }
+1	{ - } - { BENGALI VOWEL SIGN II }
+1	{ - } - { জ }
+1	{ BENGALI SIGN NUKTA } - { ম }
+1	{ ত } - { ষ }
+1	{ BENGALI SIGN VIRAMA } - { , }
+1	{ ই } - { ঙ }
+1	{ BENGALI SIGN NUKTA } - { গ }
+1	{ র } - { ট }
+1	{ BENGALI VOWEL SIGN II } - { স }
+1	{ ষ } - { চ }
+1	{ , } - { BENGALI SIGN VIRAMA }
+1	{ ঙ } - { BENGALI VOWEL SIGN II }
+1	{ BENGALI SIGN VIRAMA } - { ৎ }
+1	{ ম } - { ভ }
+1	{ ট } - { ণ }
+1	{ স } - { ড }
+1	{ ধ } - { BENGALI SIGN NUKTA }
+1	{ BENGALI VOWEL SIGN VOCALIC R } - { প }
+1	{ BENGALI VOWEL SIGN I } - { ঙ }
+1	{ ৎ } - { ঙ }
+1	{ ভ } - { ম }
+1	{ ণ } - { ক }
+1	{ BENGALI SIGN VIRAMA } - { ব }
+1	{ ড } - { BENGALI VOWEL SIGN I }
+1	{ প } - { BENGALI VOWEL SIGN I }
+1	{ BENGALI VOWEL SIGN UU } - { BENGALI VOWEL SIGN AA }
+1	{ ল } - { ফ }
+1	{ , } - { ব }
+1	{ ক } - { দ }
+1	{ ত } - { ঞ }
+1	{ BENGALI VOWEL SIGN VOCALIC R } - { ব }
+1	{ ত } - { BENGALI VOWEL SIGN VOCALIC R }
+1	{ ফ } - { অ }
+1	{ SPACE } - { ষ }
+1	{ প } - { BENGALI SIGN VIRAMA }
+1	{ BENGALI VOWEL SIGN UU } - { ট }
+1	{ স } - { এ }
+1	{ BENGALI VOWEL SIGN VOCALIC R } - { ক }
+1	{ চ } - { ষ }
+1	{ ! } - { ল }
+1	{ এ } - { ল }
+1	{ ট } - { স }
+1	{ ন } - { ঙ }
+1	{ ম } - { গ }
+1	{ BENGALI VOWEL SIGN U } - { হ }
+1	{ ট } - { ব }
+1	{ ণ } - { BENGALI VOWEL SIGN U }
+1	{ ড } - { SPACE }
+1	{ BENGALI VOWEL SIGN U } - { ! }
+1	{ SPACE } - { ফ }
+1	{ ঙ } - { BENGALI VOWEL SIGN AA }
+1	{ অ } - { ন }
+1	{ ই } - { জ }
+1	{ BENGALI VOWEL SIGN AA } - { BENGALI VOWEL SIGN UU }
+1	{ ণ } - { ভ }
+1	{ ধ } - { BENGALI VOWEL SIGN II }
+1	{ দ } - { খ }
+1	{ হ } - { BENGALI SIGN VISARGA }
+1	{ ত } - { খ }
+1	{ ভ } - { BENGALI VOWEL SIGN E }
+1	{ র } - { ণ }
+1	{ BENGALI VOWEL SIGN U } - { ণ }
+1	{ BENGALI SIGN VISARGA } - { ক }
+1	{ প } - { ধ }
+1	{ ন } - { ঠ }
+1	{ ন } - { থ }
+1	{ হ } - { ক }
+1	{ ত } - { BENGALI VOWEL SIGN U }
+1	{ ঠ } - { BENGALI VOWEL SIGN I }
+1	{ ল } - { ধ }
+1	{ ম } - { ঢ }
+1	{ ন } - { চ }
+1	{ চ } - { র }
+1	{ ক } - { - }
+1	{ য } - { চ }
+1	{ ! } - { ; }
+1	{ চ } - { অ }
+1	{ অ } - { BENGALI VOWEL SIGN U }
+1	{ ভ } - { BENGALI SIGN VISARGA }
+1	{ BENGALI VOWEL SIGN I } - { খ }
+1	{ ম } - { BENGALI VOWEL SIGN II }
+1	{ BENGALI VOWEL SIGN U } - { - }
+1	{ র } - { ঙ }
+1	{ স } - { BENGALI VOWEL SIGN UU }
+1	{ ষ } - { BENGALI VOWEL SIGN I }
+1	{ অ } - { ৎ }
+1	{ দ } - { ও }
+1	{ ক } - { ট }
+1	{ SPACE } - { ট }
+1	{ ৫ } - { ৪ }
+1	{  } - { ২ }
+1	{ ন } - { ট }
+1	{ BENGALI SIGN NUKTA } - { ন }
+1	{ ৬ } - { ৪ }
+1	{ ধ } - { BENGALI VOWEL SIGN UU }
+1	{ হ } - { ট }
+1	{ BENGALI VOWEL SIGN I } - { ট }
+1	{ ৭ } - { ৪ }
+1	{ . } - { আ }
+1	{ . } - { দ }
+1	{ . } - { র }
+1	{ . } - { ২ }
+1	{ . } - { BENGALI VOWEL SIGN II }
+1	{ ৯ } - { ১ }
+1	{ খ } - { ঋ }
+1	{ । } - { ) }
+1	{ ধ } - { ফ }
+1	{ ষ } - { ঞ }
+1	{ ম } - { দ }
+1	{ , } - { অ }
+1	{ ১ } - { - }
+1	{ BENGALI SIGN ANUSVARA } - { ল }
+1	{ 9 } - { H }
+1	{ 1 } - { SPACE }
+1	{ 0 } - { I }
+1	{ D } - { P }
+1	{ B } - {  }
+1	{ R } - {  }
+1	{ D } - { E }
+1	{ B } - { u }
+1	{ D } - { R }
+1	{ A } - {  }
+1	{ S } - { E }
+1	{ U } - { S }
+1	{ N } - { T }
+1	{ L } - { S }
+1	{ S } - {  }
+1	{ 1 } - {  }
+1	{ &amp; } - { C }
+1	{ 2 } - { A }
+1	{ W } - { T }
+1	{ B } - { T }
+1	{ Z } - { E }
+1	{ N } - { I }
+1	{ D } - {  }
+1	{ L } - {  }
+1	{ D } - { T }
+1	{ H } - {  }
+1	{ &amp; } - { S }
+1	{ 5 } - { S }
+1	{ G } - { E }
+1	{ T } - {  }
+1	{ BENGALI VOWEL SIGN I } - { ধ }
+1	{ , } - { ) }
+1	{ ― } - { ৮ }
+1	{ আ } - { &#34; }
+1	{ । } - { ০ }
+1	{ ! } - { ] }
+1	{ ঙ } - { ও }
+1	{ &#39; } - { ! }
+1	{ ৫ } - { ৯ }
+1	{ ব } - { এ }
+1	{ ৯ } - { ৭ }
+1	{ BENGALI VOWEL SIGN UU } - { ষ }
+1	{ ক } - { ঞ }
+1	{ ৸ } - { ৵ }
+1	{ ` } - { f }
+1	{ ` } - { &#39; }
+1	{ Y } - { P }
+1	{ ণ } - { থ }
+1	{ ক } - { খ }
+1	{ - } - { ? }
+1	{ য } - { জ }
+1	{ l } - { i }
+1	{ v } - { r }
+1	{ V } - { u }
+1	{ J } - { S }
+1	{ ষ } - { ঙ }
+1	{ ? } - { । }
+1	{ ৸ } - { ৮ }
+1	{ ৴ } - { ০ }
+1	{ স } - { ১ }
+1	{ BENGALI SIGN ANUSVARA } - { ৩ }
+1	{ স } - { ৪ }
+1	{ BENGALI SIGN VIRAMA } - { ৮ }
+1	{ ১ } - { ল }
+1	{ ৩ } - { BENGALI SIGN ANUSVARA }
+1	{ ৪ } - {  }
+1	{ ই } - { ছ }
+1	{ g } - { s }
+1	{ V } - { v }
+1	{ B } - { M }
+1	{ W } - { l }
+1	{ থ } - { ঝ }
+1	{ জ } - { উ }
+1	{ BENGALI SIGN NUKTA } - { BENGALI VOWEL SIGN U }
+1	{ ভ } - { ড }
+1	{ খ } - { ফ }
+1	{ ০ } - { ৪ }
+1	{ J } - { d }
+1	{ L } - { R }
+1	{ y } - { r }
+1	{ o } - { e }
+1	{ চ } - { ছ }
+1	{ ৎ } - { ও }
+1	{ র } - { ঝ }
+1	{ ৭ } - { আ }
+1	{ ৫ } - { ম }
+1	{ ৩ } - { ৪ }
+1	{ ২ } - { ন }
+1	{ ১ } - { BENGALI VOWEL SIGN I }
+1	{ ন } - { ২ }
+1	{ BENGALI VOWEL SIGN I } - { ১ }
+1	{ ! } - { ) }
+1	{ হ } - { , }
+1	{ BENGALI SIGN VIRAMA } - { থ }
+1	{ , } - { হ }
+1	{ - } - { ন }
+1	{ BENGALI SIGN NUKTA } - { , }
+1	{ ফ } - { স }
+1	{ ! } - { BENGALI VOWEL SIGN AA }
+1	{ এ } - { ? }
+1	{  } - { ) }
+1	{ খ } - { শ }
+1	{ ঘ } - { দ }
+1	{ ৵ } - { ৮ }
+1	{ ভ } - { জ }
+1	{ ৬ } - { ৮ }
+1	{ ণ } - { BENGALI SIGN ANUSVARA }
+1	{ ৺ } - { * }
+1	{ N } - { S }
+1	{ F } - { E }
+1	{ u } - { h }
+1	{ b } - {  }
+1	{ 4 } - { ৫ }
+1	{ o } - { d }
+1	{ J } - { i }
+1	{ E } - { R }
+1	{ 1 } - { l }
+1	{ 6 } - { d }
+1	{ ন } - { হ }
+1	{ } } - { । }
+1	{ এ } - { ঠ }
+1	{ ঙ } - { ত }
+1	{ স } - { BENGALI VOWEL SIGN AA }
+1	{ গ } - { ণ }
+1	{ ছ } - { য }
+1	{ ফ } - {  }
+1	{ ট } - { ম }
+1	{ এ } - { SPACE }
+1	{ ও } - { র }
+1	{ ফ } - { দ }
+1	{ আ } - { ল }
+1	{ ড } - { ঢ }
+1	{ এ } - { ব }
+1	{ ঠ } - { য }
+1	{ BENGALI SIGN ANUSVARA } - { দ }
+1	{ ঝ } - { র }
+1	{ ল } - { আ }
+1	{ খ } - { জ }
+1	{ ত } - { ঙ }
+1	{ চ } - { জ }
+1	{ দ } - { ঙ }
+1	{ দ } - { অ }
+1	{ ; } - { শ }
+1	{ অ } - { দ }
+1	{ শ } - { ; }
+1	{ ) } - { , }
+1	{ ১ } - { ৭ }
+1	{ ২ } - { অ }
+1	{ ঞ } - { জ }
+1	{ BENGALI SIGN ANUSVARA } - { &#34; }
+1	{ থ } - { ণ }
+1	{ ল } - { দ }
+1	{ । } - { শ }
+1	{ ড } - { গ }
+1	{ শ } - { । }
+1	{ ক } - { ম }
+1	{ BENGALI VOWEL SIGN AA } - { ঙ }
+1	{ ষ } - { ন }
+1	{ ঙ } - { ব }
+1	{ ক } - { শ }
+1	{  } - { ফ }
+1	{ ফ } - { SPACE }
+1	{ - } - { BENGALI VOWEL SIGN U }
+1	{ গ } - { স }
+1	{ জ } - { গ }
+1	{ থ } - { ভ }
+1	{ ত } - { BENGALI AU LENGTH MARK }
+1	{ দ } - { - }
+1	{ । } - { র }
+1	{ BENGALI AU LENGTH MARK } - { ত }
+1	{ BENGALI AU LENGTH MARK } - { SPACE }
+1	{ র } - { । }
+1	{ ছ } - { BENGALI SIGN VIRAMA }
+1	{ হ } - { ধ }
+1	{ ; } - { ষ }
+1	{ দ } - { ধ }
+1	{ BENGALI SIGN VIRAMA } - { ছ }
+1	{ ধ } - { হ }
+1	{ আ } - { স }
+1	{ খ } - { BENGALI SIGN VIRAMA }
+1	{ দ } - { BENGALI SIGN VIRAMA }
+1	{ BENGALI SIGN VISARGA } - { ত }
+1	{ ষ } - { হ }
+1	{ ণ } - { ই }
+1	{ ম } - { ল }
+1	{ ঝ } - { BENGALI SIGN NUKTA }
+1	{ ভ } - { SPACE }
+1	{ ই } - { ণ }
+1	{ BENGALI SIGN NUKTA } - { ঝ }
+1	{ ভ } - { BENGALI VOWEL SIGN U }
+1	{ । } - { গ }
+1	{ BENGALI SIGN NUKTA } - { স }
+1	{ BENGALI VOWEL SIGN U } - { ভ }
+1	{ গ } - { । }
+1	{ , } - { গ }
+1	{ ফ } - { ন }
+1	{ ট } - { ত }
+1	{ । } - { চ }
+1	{ ন } - { ফ }
+1	{ ত } - { ট }
+1	{ উ } - { ট }
+1	{ ও } - { ম }
+1	{ শ } - { ঙ }
+1	{ ব } - { গ }
+1	{ ম } - { ও }
+1	{ ঙ } - { শ }
+1	{ ন } - { উ }
+1	{ হ } - { স }
+1	{ ধ } - { শ }
+1	{ উ } - { ন }
+1	{ শ } - { ধ }
+1	{ প } - { য }
+1	{ BENGALI VOWEL SIGN AA } - { ম }
+1	{ BENGALI VOWEL SIGN I } - { ঞ }
+1	{ ক } - { BENGALI VOWEL SIGN I }
+1	{ এ } - { হ }
+1	{ ক } - { BENGALI VOWEL SIGN E }
+1	{ ? } - { ভ }
+1	{ হ } - { এ }
+1	{ SPACE } - { জ }
+1	{ ভ } - { ? }
+1	{ প } - { র }
+1	{ ই } - { চ }
+1	{ BENGALI VOWEL SIGN II } - { ম }
+1	{ হ } - { প }
+1	{ য } - { BENGALI VOWEL SIGN U }
+1	{ ৬ } - { আ }
+1	{ ব } - { ফ }
+1	{ ফ } - { । }
+1	{  } - { BENGALI SIGN ANUSVARA }
+1	{ BENGALI VOWEL SIGN U } - { ঙ }
+1	{ ম } - { BENGALI SIGN VIRAMA }
+1	{ BENGALI VOWEL SIGN E } - { ঙ }
+1	{ ঙ } - { BENGALI VOWEL SIGN U }
+1	{ BENGALI SIGN VIRAMA } - { ম }
+1	{ য } - { আ }
+1	{ ম } - { ; }
+1	{ BENGALI VOWEL SIGN UU } - { - }
+1	{ ভ } - { অ }
+1	{ ফ } - { গ }
+1	{ আ } - { জ }
+1	{ BENGALI SIGN CANDRABINDU } - { ক }
+1	{ অ } - { ভ }
+1	{ গ } - { ফ }
+1	{ ঞ } - { ল }
+1	{ জ } - { আ }
+1	{ ক } - { BENGALI SIGN CANDRABINDU }
+1	{ BENGALI VOWEL SIGN I } - { চ }
+1	{ BENGALI VOWEL SIGN UU } - { ম }
+1	{ ম } - { BENGALI SIGN NUKTA }
+1	{ BENGALI SIGN CANDRABINDU } - { BENGALI SIGN VIRAMA }
+1	{ ণ } - { SPACE }
+1	{ গ } - { অ }
+1	{ BENGALI VOWEL SIGN E } - { চ }
+1	{ BENGALI VOWEL SIGN II } - { র }
+1	{ BENGALI SIGN ANUSVARA } - { BENGALI VOWEL SIGN AA }
+1	{ অ } - { গ }
+1	{ চ } - { BENGALI VOWEL SIGN E }
+1	{ BENGALI VOWEL SIGN E } - { ড }
+1	{ ঢ } - { ল }
+1	{ BENGALI SIGN ANUSVARA } - { BENGALI VOWEL SIGN E }
+1	{ । } - { ক }
+1	{ BENGALI VOWEL SIGN U } - { ঢ }
+1	{ ড } - { BENGALI SIGN ANUSVARA }
+1	{ ক } - { ও }
+1	{ BENGALI SIGN VIRAMA } - { ড }
+1	{ ধ } - { স }
+1	{ BENGALI VOWEL SIGN UU } - { হ }
+1	{ য } - { BENGALI SIGN ANUSVARA }
+1	{ ধ } - { ছ }
+1	{ BENGALI SIGN CANDRABINDU } - { ব }
+1	{ ও } - { আ }
+1	{ SPACE } - { ছ }
+1	{ ছ } - { ধ }
+1	{ ব } - { BENGALI SIGN CANDRABINDU }
+1	{ আ } - { ও }
+1	{ ( } - { আ }
+1	{ ২ } - { ক }
+1	{ আ } - { ( }
+1	{ অ } - { ম }
+1	{ ৭ } - { ৫ }
+1	{ c } - {  }
+1	{ e } - { t }
+1	{  } - { s }
+1	{ ক } - { থ }
+1	{ ল } - { ষ }
+1	{ BENGALI VOWEL SIGN II } - { য }
+1	{ ল } - { BENGALI SIGN NUKTA }
+1	{ । } - { প }
+1	{ ষ } - { ল }
+1	{ প } - { । }
+1	{ ৴ } - { ৵ }
+1	{ ক } - { ( }
+1	{ ঘ } - { থ }
+1	{ ( } - { &#39; }
+1	{ স } - { ঞ }
+1	{ থ } - { স }
+1	{ ণ } - { ফ }
+1	{ চ } - { ম }
+1	{ ফ } - { ণ }
+1	{ SPACE } - { চ }
+1	{ SPACE } - { প }
+1	{ । } - { এ }
+1	{ ( } - { স }
+1	{ ত } - { ( }
+1	{ ধ } - { BENGALI VOWEL SIGN AA }
+1	{ শ } - { দ }
+1	{ ; } - { ত }
+1	{ থ } - { . }
+1	{ ক } - { . }
+1	{ BENGALI VOWEL SIGN AA } - { ২ }
+1	{ প } - { ৬ }
+1	{ র } - { - }
+1	{ ট } - { BENGALI VOWEL SIGN AA }
+1	{ ত } - { . }
+1	{ BENGALI VOWEL SIGN U } - { . }
+1	{ ফ } - { ২ }
+1	{ জ } - { . }
+1	{ । } - { ৭ }
+1	{ ঞ } - { ) }
+1	{ আ } - { . }
+1	{ BENGALI VOWEL SIGN I } - { . }
+1	{ এ } - { . }
+1	{ দ } - { ৭ }
+1	{ BENGALI VOWEL SIGN I } - { ৮ }
+1	{ য } - { ( }
+1	{ ও } - { SPACE }
+1	{ ব } - { . }
+1	{ । } - { ২ }
+1	{ চ } - { . }
+1	{ ই } - { . }
+1	{ অ } - { ৮ }
+1	{ ক } - { ১ }
+1	{ স } - { ( }
+1	{ হ } - { . }
+1	{ ; } - { ৮ }
+1	{ O } - { f }
+1	{ ভ } - { BENGALI VOWEL SIGN I }
+1	{ ( } - { এ }
+1	{ ১ } - { ন }
+1	{  } - { ৎ }
+1	{ এ } - { ( }
+1	{ ন } - { ১ }
+1	{ ধ } - { ঘ }
+1	{ ৬ } - { ২ }
+1	{ BENGALI VOWEL SIGN E } - { ছ }
+1	{ ? } - { প }
+1	{ ছ } - { BENGALI VOWEL SIGN E }
+1	{ জ } - { BENGALI SIGN NUKTA }
+1	{ গ } - { হ }
+1	{ ? } - { ত }
+1	{ BENGALI SIGN NUKTA } - { জ }
+1	{ হ } - { গ }
+1	{ ত } - { ? }
+1	{ ; } - { ) }
+1	{ SPACE } - { : }
+1	{ হ } - { ২ }
+1	{ দ } - { ঘ }
+1	{ ব } - { থ }
+1	{  } - { ৭ }
+1	{ ৭ } - { ৩ }
+1	{ D } - { SPACE }
+1	{ a } - { l }
+1	{ k } - { t }
+1	{ o } - { i }
+1	{ M } - { l }
+1	{ T } - { i }
+1	{ R } - { l }
+1	{ w } - { l }
+1	{ g } - { o }
+1	{ ণ } - { ও }
+1	{ ও } - { ৎ }
+1	{ জ } - { ত }
+1	{ ট } - { ই }
+1	{ দ } - { ঠ }
+1	{ ঘ } - { ব }
+1	{ ম } - { ধ }
+1	{ প } - { এ }
+1	{ থ } - { ক }
+1	{ ও } - { ৪ }
+
+Average accuracy: 98.82%, (stddev: 0.00)
+
