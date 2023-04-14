@@ -11,13 +11,13 @@ The dataset is not public yet, but the models are described below.
 
 ### Training
 For Urdu recognition models, a binary dataset was compiled from ~28K lines from 24 texts and OpenITI Urdu nasta’līq data (~10K lines from 10 books) with the following command:
-`cat xml.xmllist | xargs -d '\n' ketos compile --ignore-splits -f alto -o ur.arrow --workers 10`
+`cat xml.xmllist | xargs -d '\n' ketos compile --ignore-splits -f alto --workers 10`
 
 For Bengali recognition model, a binary dataset of 40K lines from 40 books was compiled using the same command as above.
 Students of the M.A. Bengali program at the Dept. of MIL & LS, Delhi University {Oishiki Bera, Shilpa Mishra, Sumita Bawali, Sindhu Som} contributed part of the training data for Bengali recognition model by double reading 14 texts. The training dataset also has mix-script text in Bengali and English.
 
 ### Recognition Training prompt:
-`ketos train -d cuda:0 -f binary --base-dir R --normalization NFD --min-epochs 30 -w 0 -s '[1,120,0,1 Cr3,13,32 Do0.1,2 Mp2,2 Cr3,13,32 Do0.1,2 Mp2,2 Cr3,9,64 Do0.1,2 Mp2,2 Cr3,9,64 Do0.1,2 S1(1x0)1,3 Lbx200 Do0.1,2 Lbx200 Do.1,2 Lbx200 Do]' -r 0.0001 ur.arrow`
+`ketos train -d cuda:0 -f binary --base-dir R --normalization NFD --min-epochs 30 -w 0 -s '[1,120,0,1 Cr3,13,32 Do0.1,2 Mp2,2 Cr3,13,32 Do0.1,2 Mp2,2 Cr3,9,64 Do0.1,2 Mp2,2 Cr3,9,64 Do0.1,2 S1(1x0)1,3 Lbx200 Do0.1,2 Lbx200 Do.1,2 Lbx200 Do]' -r 0.0001`
 
 ### Urdu Models
 The recognition model `urATR_best_17-2-23.mlmodel` in `models/ur` is at 97.57% CAR or less than 3% CER.
